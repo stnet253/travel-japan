@@ -1,0 +1,40 @@
+{
+  "mcpServers": {
+    "norikae": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "norikae-mcp"
+      ]
+    },
+    "weather": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@dangahagan/weather-mcp@latest"
+      ]
+    },
+    "airbnb": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@openbnb/mcp-server-airbnb"
+      ]
+    },
+    "gurume": {
+      "command": "uvx",
+      "args": [
+        "--with",
+        "mcp<2",
+        "gurume",
+        "mcp"
+      ]
+    },
+    "japan-transit": {
+      "command": "node",
+      "args": [
+        "mcp/japan-transit-mcp/dist/index.js"
+      ]
+    }
+  }
+}

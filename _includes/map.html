@@ -1,0 +1,7 @@
+{% comment %} 參數：id、mode(trip|day)。資料以 JSON 寫進 data 屬性，由 assets/js/map.js 繪製 {% endcomment %}
+{% if include.mode == "trip" %}
+  {% assign payload = site.data.trip | jsonify %}
+{% else %}
+  {% assign payload = site.data.days[page.data] | jsonify %}
+{% endif %}
+<div id="{{ include.id }}" class="map" data-mode="{{ include.mode }}" data-payload='{{ payload | escape }}'></div>

@@ -1,0 +1,18 @@
+# 旅程總覽，首頁與導覽列讀這裡
+title: 東京，慢慢走
+subtitle: Tokyo · Winter 2026
+lede: 不趕景點的七天。早上在神社前排隊買熱咖啡，下午搭山手線繞一圈，晚上找一家只有八個位子的居酒屋。
+hero: ""            # 首頁封面圖路徑，如 /assets/img/cover.jpg；留空則用色塊
+hero_caption: ""    # 封面圖說明與出處
+start: 2026-01-01
+end: 2026-01-07
+travelers: 2
+currency_rate: { jpy_to_twd: 0.21, as_of: 2026-10-16 }
+cities:
+  - { name: 東京, lat: 35.6812, lng: 139.7671 }
+hotels:
+  - { name: 範例飯店（請替換）, city: 東京, lat: 35.6895, lng: 139.6917, checkin: 2026-01-01, checkout: 2026-01-07, note: 新宿站西口步行 6 分，有行李寄放 }
+emergency:
+  - { label: 日本警察, value: "110" }
+  - { label: 救護・消防, value: "119" }
+  - { label: 台北駐日經濟文化代表處, value: "+81-3-3280-7811" }

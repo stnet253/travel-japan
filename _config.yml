@@ -1,0 +1,39 @@
+title: 東京，慢慢走
+description: 圖文行程、時間軸與地圖
+lang: zh-Hant
+timezone: Asia/Tokyo
+baseurl: "/travel-japan"
+url: "https://stnet253.github.io"
+
+markdown: kramdown
+theme: null
+
+collections:
+  days:
+    output: true
+    permalink: /day/:name/
+    sort_by: date
+
+defaults:
+  - scope:
+      path: ""
+      type: days
+    values:
+      layout: day
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - mcp
+  - scripts
+  - CLAUDE.md
+  - README.md
+  - .mcp.json
+  - .env.example
+  - transport
+  - accommodation
+  - places
+  - budget
+  - checklist
+  - reference

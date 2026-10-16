@@ -1,0 +1,30 @@
+<ol class="tl">
+{% for n in include.nodes %}
+  <li class="tl-row" id="t{{ forloop.index }}">
+    <div class="tl-when">
+      <span class="tl-time mono">{{ n.time }}</span>
+      {% if n.until %}<span class="tl-until mono">— {{ n.until }}</span>{% endif %}
+      <span class="tl-idx">{{ forloop.index }}</span>
+    </div>
+    <div class="tl-main">
+      <h3 class="serif tl-title">{{ n.title }}{% if n.subtitle %}<small>{{ n.subtitle }}</small>{% endif %}</h3>
+      {% if n.img and n.img != "" %}
+      <figure class="tl-fig">
+        <img src="{{ n.img | relative_url }}" alt="{{ n.title }}" loading="lazy">
+        {% if n.img_caption %}<figcaption>{{ n.img_caption }}</figcaption>{% endif %}
+      </figure>
+      {% endif %}
+      <p class="tl-what">{{ n.what }}</p>
+      {% if n.tips %}<p class="tl-tips">{{ n.tips }}</p>{% endif %}
+      <dl class="tl-facts">
+        {% if n.transport %}<div><dt>交通</dt><dd>{{ n.transport }}</dd></div>{% endif %}
+        {% if n.cost != nil %}<div><dt>費用</dt><dd class="mono">¥{{ n.cost }}</dd></div>{% endif %}
+        {% if n.buffer %}<div><dt>緩衝</dt><dd>{{ n.buffer }}</dd></div>{% endif %}
+        {% if n.hours %}<div><dt>營業</dt><dd>{{ n.hours }}</dd></div>{% endif %}
+      </dl>
+      {% if n.plan_b %}<aside class="tl-planb"><span class="kicker">備案</span>{{ n.plan_b }}</aside>{% endif %}
+      {% if n.lat %}<p class="tl-links"><a class="textlink" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query={{ n.lat }},{{ n.lng }}">導航</a>{% if n.url %} <span class="dot">·</span> <a class="textlink" target="_blank" rel="noopener" href="{{ n.url }}">官網</a>{% endif %}</p>{% endif %}
+    </div>
+  </li>
+{% endfor %}
+</ol>

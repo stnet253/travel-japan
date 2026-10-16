@@ -1,0 +1,67 @@
+---
+layout: default
+---
+{% assign nodes = site.data.days[page.data] %}
+{% assign idx = 0 %}{% for d in site.days %}{% if d.url == page.url %}{% assign idx = forloop.index %}{% endif %}{% endfor %}
+<article class="day">
+  <header class="day-hero {% if page.cover == nil or page.cover == "" %}hero--plain{% endif %}" {% if page.cover and page.cover != "" %}style="--hero: url('{{ page.cover | relative_url }}')"{% endif %}>
+    <div class="wrap day-hero-inner">
+      <p class="kicker">Day {{ idx | prepend: "0" | slice: -2, 2 }} <span class="dot">·</span> {{ page.date | date: "%Y.%m.%d" }} <span class="dot">·</span> {{ page.city }}</p>
+      <h1 class="display">{{ page.title }}</h1>
+      {% if page.lede and page.lede != "" %}<p class="hero-lede">{{ page.lede }}</p>{% endif %}
+    </div>
+    {% if page.cover_caption and page.cover_caption != "" %}<p class="hero-caption">{{ page.cover_caption }}</p>{% endif %}
+  </header>
+
+  <div class="wrap">
+    <dl class="stub">
+      <div><dt>天氣</dt><dd>{% if page.weather and page.weather != "" %}{{ page.weather }}{% else %}—{% endif %}</dd></div>
+      <div><dt>步行</dt><dd>{{ page.walk_km }} km</dd></div>
+      <div><dt>預算</dt><dd>¥{{ page.cost_total }}</dd></div>
+      <div><dt>今晚</dt><dd>{{ page.hotel }}</dd></div>
+      <div><dt>帶上</dt><dd>{{ page.must_bring | join: "、" }}</dd></div>
+    </dl>
+  </div>
+
+  <section class="chapter wrap">
+    <div class="chapter-head">
+      <span class="vertical-label">地図</span>
+      <h2 class="serif">今天的路線</h2>
+    </div>
+    {% include map.html id="day-map" mode="day" %}
+    <p class="caption">編號對應下方時間軸。點擊圖釘可看時間與內容。</p>
+  </section>
+
+  <section class="chapter wrap">
+    <div class="chapter-head">
+      <span class="vertical-label">時程</span>
+      <h2 class="serif">一步一步來</h2>
+    </div>
+    {% include timeline.html nodes=nodes %}
+  </section>
+
+  {% if content != "" %}
+  <section class="chapter wrap prose">
+    <div class="chapter-head">
+      <span class="vertical-label">記</span>
+      <h2 class="serif">補充</h2>
+    </div>
+    {{ content }}
+  </section>
+  {% endif %}
+
+  <nav class="pager wrap" aria-label="前後天">
+    {% if page.previous %}
+    <a class="pager-card" href="{{ page.previous.url | relative_url }}">
+      <span class="kicker">← 前一天</span>
+      <span class="serif">{{ page.previous.title }}</span>
+    </a>
+    {% else %}<a class="pager-card" href="{{ '/' | relative_url }}"><span class="kicker">← 回到</span><span class="serif">行程總覽</span></a>{% endif %}
+    {% if page.next %}
+    <a class="pager-card pager-card--next" href="{{ page.next.url | relative_url }}">
+      <span class="kicker">後一天 →</span>
+      <span class="serif">{{ page.next.title }}</span>
+    </a>
+    {% else %}<a class="pager-card pager-card--next" href="{{ '/' | relative_url }}"><span class="kicker">回到 →</span><span class="serif">行程總覽</span></a>{% endif %}
+  </nav>
+</article>

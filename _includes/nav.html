@@ -1,0 +1,14 @@
+<header class="masthead">
+  <a class="masthead-brand" href="{{ '/' | relative_url }}">
+    <span class="brand-mark">旅</span>
+    <span class="brand-text">{{ site.title }}</span>
+  </a>
+  <nav class="masthead-days" aria-label="每日行程">
+  {% for d in site.days %}
+    <a href="{{ d.url | relative_url }}" {% if page.url == d.url %}aria-current="page"{% endif %} title="{{ d.title }}">
+      <span class="n">{{ forloop.index | prepend: "0" | slice: -2, 2 }}</span>
+      <span class="c">{{ d.city }}</span>
+    </a>
+  {% endfor %}
+  </nav>
+</header>

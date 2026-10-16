@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+*.local
+.DS_Store
+mcp/
+_site/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.bundle/
+.playwright-mcp/

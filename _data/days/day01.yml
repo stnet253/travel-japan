@@ -1,0 +1,37 @@
+# 第 1 天時間軸節點。欄位說明見 CLAUDE.md「內容要求」；img / url / hours / tips / until / subtitle 皆為選填
+- time: "08:00"
+  until: "08:40"
+  title: "東京駅"
+  subtitle: "Tokyo Station · 丸の内南口"
+  what: "在丸之內南口集合，先到 JR 售票機買 Suica 並儲值 ¥3,000，然後到站內 GRANSTA 吃早餐。"
+  tips: "丸之內側的紅磚站體是 1914 年的建築，早上八點前人最少，順光好拍。"
+  transport: "自飯店步行 8 分（650 m）"
+  cost: 1200
+  buffer: "預留 20 分找月台"
+  plan_b: "下雨改走地下通道，從 B1 直接進站。"
+  lat: 35.6812
+  lng: 139.7671
+  img: ""
+  url: "https://www.tokyostationcity.com/"
+- time: "08:40"
+  until: "09:06"
+  title: "JR 山手線 → 原宿駅"
+  what: "4 號月台搭外回り（往新宿・池袋方向），26 分到原宿。"
+  transport: "JR 山手線 外回り · IC ¥210 · 末班 00:35"
+  cost: 210
+  lat: 35.6702
+  lng: 139.7027
+- time: "09:10"
+  until: "10:40"
+  title: "明治神宮"
+  subtitle: "Meiji Jingu"
+  what: "從原宿駅表参道口出站，右手邊就是第一鳥居。沿參道走到本殿參拜，回程繞到御苑看清正井。"
+  tips: "參道上的酒樽牆是法國葡萄酒與日本清酒各一面，很多人只拍了一面。"
+  transport: "原宿駅 表参道口 出站步行 5 分"
+  cost: 0
+  hours: "日出開門、日落關門（1 月約 06:40–16:20）"
+  plan_b: "雨天改去竹下通的室內店鋪，或直接到表參道 Hills。"
+  lat: 35.6764
+  lng: 139.6993
+  img: ""
+  url: "https://www.meijijingu.or.jp/"
