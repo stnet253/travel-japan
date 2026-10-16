@@ -19,9 +19,10 @@
   hours: "本堂 10～3 月 6:30–17:00，境內全年開放"
   lat: 35.7148
   lng: 139.7967
-  img: /assets/img/sensoji.jpg
-  img_caption: 浅草寺 雷門
   url: "https://www.senso-ji.jp/guide/"
+  gallery:
+    - { img: /assets/img/sensoji.jpg, caption: "雷門" }
+    - { img: /assets/img/sensoji_hondo.jpg, caption: "浅草寺 本堂" }
 - time: "10:30"
   until: "11:00"
   title: "仲見世通り 吃點心"
@@ -43,6 +44,8 @@
   lat: 35.7108
   lng: 139.7960
   url: "https://tempura-sansada.co.jp/"
+  img: /assets/img/tempura_tendon.jpg
+  img_caption: 天丼（示意）
 - time: "12:15"
   until: "12:25"
   title: "浅草 → 上野"
@@ -62,8 +65,9 @@
   plan_b: "下雨就直接進博物館，把賞櫻時間挪到谷中靈園（人少又有屋簷可躲）。"
   lat: 35.7146
   lng: 139.7733
-  img: /assets/img/ueno_sakura.jpg
-  img_caption: 上野公園 桜
+  gallery:
+    - { img: /assets/img/ueno_sakura.jpg, caption: "上野公園 桜通り" }
+    - { img: /assets/img/shinobazu.jpg, caption: "不忍池" }
 - time: "13:30"
   until: "15:30"
   title: "東京国立博物館"
@@ -95,8 +99,9 @@
   cost: 800
   lat: 35.7276
   lng: 139.7664
-  img: /assets/img/yanaka.jpg
-  img_caption: 谷中銀座
+  gallery:
+    - { img: /assets/img/yanaka.jpg, caption: "谷中銀座" }
+    - { img: /assets/img/yuyake_dandan.jpg, caption: "夕やけだんだん" }
 - time: "17:32"
   until: "17:40"
   title: "日暮里 → 秋葉原"
@@ -114,8 +119,9 @@
   cost: 0
   lat: 35.6984
   lng: 139.7714
-  img: /assets/img/akihabara.jpg
-  img_caption: 秋葉原 電気街 夜
+  gallery:
+    - { img: /assets/img/akihabara.jpg, caption: "中央通り 夜" }
+    - { img: /assets/img/akiba_radio.jpg, caption: "ラジオ会館" }
 - time: "19:30"
   until: "20:45"
   title: "晚餐：秋葉原"

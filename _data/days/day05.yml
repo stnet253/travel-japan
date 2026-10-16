@@ -25,9 +25,11 @@
   hours: "一般客 9:00–14:00 為主；休市日依東京都中央卸売市場日曆"
   lat: 35.6654
   lng: 139.7707
-  img: /assets/img/tsukiji.jpg
-  img_caption: 築地場外市場
   url: "https://www.tsukiji.or.jp/calendar/"
+  gallery:
+    - { img: /assets/img/tsukiji.jpg, caption: "築地場外市場" }
+    - { img: /assets/img/tsukiji_tamagoyaki.jpg, caption: "玉子焼き 攤位" }
+    - { img: /assets/img/kaisendon.jpg, caption: "海鮮丼（示意）" }
 - time: "10:34"
   until: "10:57"
   title: "築地市場 → 九段下"
@@ -41,16 +43,18 @@
   title: "千鳥ヶ淵緑道・划船"
   subtitle: "Chidorigafuchi · 皇居護城河的櫻花隧道"
   what: "從九段下 2 號出口走 5 分到緑道入口。700 公尺的步道沿著護城河，260 株櫻花垂到水面；租船從水面往上看是另一個世界。靖国神社裡的「標本木」就在 5 分鐘路程外，那棵樹開花日本氣象廳就宣布東京開花。"
-  tips: "划船 11:00 前排隊最短，觀櫻期 30 分 ¥1,500（一船最多 3 人）。南側水域目前因石垣整修部分禁航，跟著工作人員的指示。"
+  tips: "划船 11:00 前排隊最短（滿開週末可排 2–3 小時，今天是週三較少），觀櫻期以「一艘」計價 30 分 ¥1,500、60 分 ¥3,000（2026-03 起新價，一船最多 3 人，2 人共乘每人 ¥750）；不想排隊可在 WEBKET 買 1 小時 ¥12,000 的スマートチケット。南側水域目前因石垣整修部分禁航，跟著工作人員的指示。"
   transport: "九段下駅 2 號出口 步行 5 分"
   cost: 750
   hours: "划船 10:00–17:00，週一休（3/29 是週一，所以排在今天）；夜櫻期間延長"
   plan_b: "雨天或強風划船停駛，就走完緑道後到 靖国神社 標本木，再去神保町逛舊書店。"
   lat: 35.6922
   lng: 139.7480
-  img: /assets/img/chidorigafuchi.jpg
-  img_caption: 千鳥ヶ淵 桜
   url: "https://www.city.chiyoda.lg.jp/shisetsu/koen/chidorigafuchi-boat.html"
+  gallery:
+    - { img: /assets/img/chidorigafuchi.jpg, caption: "千鳥ヶ淵" }
+    - { img: /assets/img/yasukuni_sakura.jpg, caption: "靖国神社 標本木周邊" }
+    - { img: /assets/img/jimbocho.jpg, caption: "雨天備案：神保町 舊書店街" }
 - time: "13:00"
   until: "13:08"
   title: "九段下 → 新宿"
@@ -66,8 +70,9 @@
   cost: 1500
   lat: 35.6917
   lng: 139.7036
+  plan_b: "若時間寬裕，千鳥ヶ淵後可搭半蔵門線到銀座逛 1 小時再回新宿。"
   img: /assets/img/ginza.jpg
-  img_caption: 若時間寬裕，也可改在千鳥ヶ淵後搭半藏門線到銀座（圖）再回新宿
+  img_caption: 銀座 中央通り（備案）
 - time: "14:30"
   until: "15:15"
   title: "回飯店拿行李，走到新宿駅"
@@ -88,12 +93,15 @@
   plan_b: "若錯過 N'EX，搭山手線到日暮里轉京成スカイライナー，1 小時 17 分、IC ¥2,820。"
   lat: 35.7720
   lng: 140.3929
+  img: /assets/img/nex_train.jpg
+  img_caption: 成田エクスプレス
 - time: "17:00"
   until: "20:00"
   title: "成田空港 報到、退稅、登機"
-  what: "第2ターミナル 3 樓出境。免稅品的購買紀錄已綁在護照電子資料，出境時海關可能抽查，別把免稅品放進託運行李。"
+  what: "第2ターミナル 3 樓出境。2026-11-01 起日本改為「退稅制」：在店裡付的是含稅價，要在託運行李之前到退稅機（或海關櫃台）刷護照，綠燈＝完成，紅燈＝帶商品給海關看；之後店家或退款業者再把稅退到信用卡、帳戶或 App。所以先退稅、再報到託運，商品不要先塞進託運箱。詳細步驟見「交通・票券指南」退稅段。"
+  tips: "免稅品在日本吃掉或用掉，整張收據都不能退；同店同日稅抜 ¥5,000 以上才符合。"
   cost: 0
   lat: 35.7720
   lng: 140.3929
   img: /assets/img/narita.jpg
-  img_caption: 成田空港
+  img_caption: 成田空港 第2ターミナル

@@ -8,7 +8,11 @@
     </div>
     <div class="tl-main">
       <h3 class="serif tl-title">{{ n.title }}{% if n.subtitle %}<small>{{ n.subtitle }}</small>{% endif %}</h3>
-      {% if n.img and n.img != "" %}
+      {% if n.gallery %}
+      <div class="tl-gallery tl-gallery--{{ n.gallery | size }}">
+        {% for g in n.gallery %}<figure class="tl-fig"><img src="{{ g.img | relative_url }}" alt="{{ g.caption }}" loading="lazy"><figcaption>{{ g.caption }}</figcaption></figure>{% endfor %}
+      </div>
+      {% elsif n.img and n.img != "" %}
       <figure class="tl-fig">
         <img src="{{ n.img | relative_url }}" alt="{{ n.title }}" loading="lazy">
         {% if n.img_caption %}<figcaption>{{ n.img_caption }}</figcaption>{% endif %}

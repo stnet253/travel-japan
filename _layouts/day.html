@@ -23,6 +23,27 @@ layout: default
     </dl>
   </div>
 
+  {% if page.tickets_today %}
+  <section class="chapter wrap">
+    <div class="chapter-head">
+      <span class="vertical-label">切符</span>
+      <h2 class="serif">今天要用的票</h2>
+    </div>
+    <ul class="ticket-list">
+    {% for t in page.tickets_today %}
+      <li class="ticket">
+        <div class="ticket-main">
+          <h3 class="serif">{{ t.name }}</h3>
+          <p class="muted">{{ t.where }}</p>
+        </div>
+        <div class="ticket-price serif">{{ t.price }}</div>
+      </li>
+    {% endfor %}
+    </ul>
+    <p class="caption">票種細節與購買流程見 <a class="textlink" href="{{ '/guide/' | relative_url }}">交通・票券・購票指南</a>。</p>
+  </section>
+  {% endif %}
+
   <section class="chapter wrap">
     <div class="chapter-head">
       <span class="vertical-label">地図</span>

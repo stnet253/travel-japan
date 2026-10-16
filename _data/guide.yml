@@ -1,0 +1,835 @@
+# 由研究結果合併，需外部查證的指南內容（2026-10-16 查詢）
+title: 交通・票券・購票指南
+lede: 從訂機票、入境、買車票、刷卡進站、買門票，到回程退稅與登機，每一步都寫到「按哪個按鈕」。所有價格與規則皆於 2026-10-16 查官方來源，出發前一個月請再對照最後一段的待確認清單。
+checked: '2026-10-16'
+sections:
+- id: flight
+  label: 航空
+  title: 從桃園飛成田，先看清楚你的航空公司停哪一棟航廈
+  intro: 台北桃園 TPE 飛成田 NRT 的直飛選擇很多，傳統航空與廉航都有。成田有三座航廈（T1／T2／T3），同一條航線不同公司停的航廈不同，訂票時就要記下來，回程走錯航廈最花時間。本行程預設 2027-03-27（六）上午抵達 T2，所以優先看停 T2 的航空公司。
+  verdict: 櫻花季票價會漲，建議出發前 3～5 個月（2026-10 至 2026-12）鎖定 T2 的華航、星宇、日航或虎航，廉航記得把行李費一起算進去比價。
+  figures:
+  - img: "/assets/img/narita.jpg"
+    caption: 成田國際空港。台北線分散在 T1、T2、T3 三棟航廈。
+  rows:
+  - item: 中華航空 China Airlines（CI）
+    detail: 傳統航空，成田國際線在 T2 3F 報到。
+    price: 經濟艙來回約 NT$12,000～20,000（估計，2026-10-16 查詢，櫻花季可能更高）
+    how: 官網或旅行社訂票；含託運行李。
+    url: https://www.narita-airport.jp/ja/flight/airline-search/cal/
+  - item: 長榮航空 EVA Air（BR）
+    detail: 傳統航空，成田國際線在 T1（不是 T2）。
+    price: 經濟艙來回約 NT$12,000～20,000（估計，2026-10-16 查詢）
+    how: 官網訂票；若選長榮，抵達是 T1，N'EX 改在「成田空港」站（T1 地下）上車。
+    url: https://www.narita-airport.jp/ja/flight/airline-search/eva/
+  - item: 星宇航空 STARLUX（JX）
+    detail: 傳統航空，成田國際線在 T2 3F。
+    price: 經濟艙來回約 NT$13,000～22,000（估計，2026-10-16 查詢）
+    how: 官網訂票；含託運行李。
+    url: https://www.narita-airport.jp/ja/flight/airline-search/sjx/
+  - item: 日本航空 JAL（JL）
+    detail: 傳統航空，成田國際線在 T2 3F。
+    price: 經濟艙來回約 NT$12,000～20,000（估計，2026-10-16 查詢）
+    how: 官網訂票。
+    url: https://www.narita-airport.jp/ja/flight/airline-search/jal/
+  - item: 台灣虎航 Tigerair Taiwan（IT）
+    detail: 廉航，成田國際線在 T2 3F。基本票價不含託運行李；手提行李規則請以官網為準（第三方整理為 2 件合計 10kg）。
+    price: 基本票來回約 NT$6,000～12,000，另加行李費（估計，2026-10-16 查詢）
+    how: 官網訂票時就加購託運行李，比機場現場便宜。
+    url: https://www.tigerairtw.com/zh-tw/ready-to-go/fees
+  - item: 樂桃 Peach（MM）
+    detail: 廉航，成田國際線在 T1 北ウイング 4F。
+    price: 基本票來回約 NT$6,000～12,000，另加行李費（估計，2026-10-16 查詢）
+    how: 託運行李加購必須在原定起飛 1 小時前完成；完成報到後就無法上網加購。
+    url: https://www.flypeach.com/tw/lm/ai/airports/baggage/checked_in_bag
+  - item: 捷星日本 Jetstar Japan（GK）
+    detail: 廉航，成田國際線在 T3 2F。KAYAK 顯示近期有執飛 TPE–NRT。
+    price: KAYAK 標示來回一般約 US$269～430（估計，2026-10-16 查詢）
+    how: 官網訂票；T3 離 N'EX 車站最遠，回程要多抓 15 分鐘。
+    url: https://www.narita-airport.jp/ja/flight/airline-search/jjp/
+  - item: 松山 TSA ⇄ 羽田 HND（參考）
+    detail: 另有台北松山飛羽田的航線，羽田離市區較近。但本行程以成田為準，已規劃 N'EX 與新宿西口住宿動線，不建議中途改機場。
+    price: 通常比成田線貴（估計）
+    how: 若真要改羽田，交通段需整段重排。
+    url: https://www.narita-airport.jp/ja/flight/airline-search/
+  steps_title: 訂票前三件事
+  steps:
+  - 打開 Google Flights 或 Skyscanner，日期填 2027-03-27 去程（上午抵達）、2027-03-31 回程（約 20:00 起飛），先看哪些航班有、價差多少。
+  - 把候選航班的公司名稱對照成田官網「航空会社一覧」，確認停的是 T1、T2 還是 T3（本頁表格已列出），選 T2 最符合本行程。
+  - 廉航請在付款頁把「託運行李」勾起來再比價，兩人來回的行李費加上去，常常和傳統航空差不到多少。
+  - 回官網直接訂（不要在比價網的第三方代理付款），訂完把電子機票 PDF 存到手機，Visit Japan Web 填寫時會用到航班編號。
+  tips:
+  - 長榮停 T1、華航和星宇停 T2，兩家台灣大公司不在同一棟，朋友若分別訂票，回程集合點要先講好。
+  - 廉航的「手提 10kg」通常是兩件加起來，回程裝了藥妝零食很容易超重，在機場加購最貴。
+  - 3 月底是日本櫻花季加上台灣春假前後，票價波動大，看到合理價格就先訂。
+  sources:
+  - name: 成田国際空港 航空会社一覧
+    url: https://www.narita-airport.jp/ja/flight/airline-search/
+  - name: 成田国際空港 チャイナエアライン
+    url: https://www.narita-airport.jp/ja/flight/airline-search/cal/
+  - name: 成田国際空港 スターラックス航空
+    url: https://www.narita-airport.jp/ja/flight/airline-search/sjx/
+  - name: 成田国際空港 タイガーエア台湾
+    url: https://www.narita-airport.jp/ja/flight/airline-search/ttw/
+  - name: 成田国際空港 Peach
+    url: https://www.narita-airport.jp/ja/flight/airline-search/apj/
+  - name: 成田国際空港 ジェットスター・ジャパン
+    url: https://www.narita-airport.jp/ja/flight/airline-search/jjp/
+  - name: 成田国際空港 日本航空
+    url: https://www.narita-airport.jp/ja/flight/airline-search/jal/
+  - name: 台灣虎航 行李費用
+    url: https://www.tigerairtw.com/zh-tw/ready-to-go/fees
+  - name: Peach 託運行李
+    url: https://www.flypeach.com/tw/lm/ai/airports/baggage/checked_in_bag
+  - name: KAYAK TPE–NRT 票價區間（參考）
+    url: https://www.kayak.com/flight-routes/Taipei-Taiwan-Taoyuan-Intl-other-Airports-TPE/Tokyo-Narita-NRT
+- id: arrival
+  label: 入国
+  title: 落地成田之前，先把 Visit Japan Web 填好
+  intro: 台灣護照（有身分證字號）赴日觀光免簽，單次最長 90 天。入境要過入境審查、領行李、海關三關，Visit Japan Web（VJW）可以把入境審查與海關申報整合成手機 QR 碼，免填紙本。VJW 非強制，但事先填好通關快很多。
+  verdict: 出發前一週用手機註冊 VJW、兩個人各自登錄，落地後照「入境審查 → 領行李 → 海關」三步出示 QR 碼即可。
+  figures:
+  - img: "/assets/img/narita_t2_station.jpg"
+    caption: 出海關後往下走就是空港第2ビル駅，N'EX 從這裡出發。
+  rows:
+  - item: 免簽資格
+    detail: 台灣居民持載有身分證統一編號的護照，以觀光等短期停留目的入境免簽，在留期間 90 天。需持有效護照並確保能返國。
+    price: 免費
+    how: 回程機票存在手機，入境審查官可能詢問。
+    url: https://www.koryu.or.jp/visa/taipei/exemption/
+  - item: Visit Japan Web
+    detail: 日本數位廳的免費網頁服務，登錄入境審查與海關申報資料，入境時出示 QR 碼。註冊需要護照、機票、電子郵件。
+    price: 免費
+    how: 從 vjw-lp.digital.go.jp（會轉到 services.digital.go.jp）點「開始使用」。可用電腦登錄，但入境時須用手機出示 QR 碼。
+    url: https://services.digital.go.jp/zh-cmn-hant/visit-japan-web/
+  - item: 海關電子申報
+    detail: 領完行李後到電子申報機掃 VJW 的海關 QR 碼與護照，再走電子申報閘門；沒用 VJW 就要填紙本「携帯品・別送品申告書」。
+    price: 免費
+    how: 沒有超過免稅範圍走綠色檢查台。
+    url: https://www.customs.go.jp/kaigairyoko/egate.htm
+  steps_title: Visit Japan Web 註冊與入境步驟
+  steps:
+  - STEP 0：手機瀏覽器打開 https://vjw-lp.digital.go.jp/ （會轉到數位廳頁面），右上切換「繁體中文」，按「開始使用」→「建立新帳號」，輸入 email、設密碼，到信箱收驗證碼完成註冊後登入。
+  - STEP 1：按「本人資料」→ 選入境類別（外國人）→「使用相機讀取」掃護照照片頁（失敗就改「自行輸入」）→ 填基本資料（職業、台灣地址）。
+  - STEP 1-2：同行另一人可在「同行家人」新增，或各自用自己的帳號登錄。
+  - STEP 2：按「登錄入境・返回日本的預定」→ 填入境日期 2027-03-27、航空公司與航班編號 → 「在日本的聯絡處」填新宿西口飯店名稱、地址、電話（訂房確認信上有）。
+  - STEP 3：點剛登錄的行程 →「入境審查以及海關申報」→ 逐題回答（攜帶物品、現金是否超過 100 萬日圓等），確認後送出。檢疫題目若有也一起回答。
+  - 落地第一關 入國審查：走「外国人 Foreign Passports」的隊伍，出示護照與 VJW 入境審查 QR 碼，依指示按兩手食指指紋、拍臉部照片，護照貼上陸許可貼紙。
+  - 第二關 領行李：看電子看板找航班編號對應的轉盤（ターンテーブル），用行李收據核對自己的箱子。
+  - 第三關 海關：到電子申報機（電子申告端末）掃 VJW 海關 QR 碼與護照，再走電子申報閘門；未申報或有疑問走紅色檢查台。
+  - 出海關到到著ロビー（入境大廳），T2 往 B1 走就是空港第2ビル駅，接 N'EX。
+  tips:
+  - VJW 的 QR 碼分「入境審查」和「海關申報」兩張，不要只截一張；在機場網路不穩時，事先把 VJW 加到主畫面可離線顯示。
+  - 護照上陸許可貼紙不要撕，之後免稅購物與 VJW 免稅 QR 碼都會用到。
+  - 肉類（含肉乾、肉鬆、含肉泡麵）不能帶入日本，台灣伴手禮請避開。
+  sources:
+  - name: デジタル庁 Visit Japan Web（繁中）
+    url: https://services.digital.go.jp/zh-cmn-hant/visit-japan-web/
+  - name: Visit Japan Web 使用方法（繁中）
+    url: https://services.digital.go.jp/zh-cmn-hant/visit-japan-web/guide/
+  - name: Visit Japan Web 操作說明書（繁中）
+    url: https://www.vjw.digital.go.jp/manual/main/visitjapanweb_manual_zh-cmn-Hant.html
+  - name: 日本台湾交流協会 査証免除で入国する皆様へ
+    url: https://www.koryu.or.jp/visa/taipei/exemption/
+  - name: 外務省 査証免除国・地域
+    url: https://www.mofa.go.jp/mofaj/toko/visa/tanki/novisa.html
+  - name: 成田国際空港 到着のご案内：国際線
+    url: https://www.narita-airport.jp/ja/airportguide/inter-arr/
+  - name: 税関 電子申告ゲート
+    url: https://www.customs.go.jp/kaigairyoko/egate.htm
+- id: airport-rail
+  label: 空港
+  title: 落地成田，一張來回券把兩人直接送到新宿西口
+  intro: 成田空港第2ターミナル地下就是 JR 與京成的車站，往新宿最省事的是 JR 特急「成田エクスプレス」（N'EX），不必轉車、行李有專用架。持外國護照可買 N'EX TOKYO Round Trip Ticket，14 天內去回各一次。想再省錢就搭京成アクセス特急轉都営新宿線，便宜一半但要轉乘、拖行李辛苦。
+  verdict: 兩人帶大行李、住新宿西口：買 N'EX 來回券（每人 ¥5,200），比單程買兩次每人省 ¥1,460，也比 Skyliner 轉 JR 便宜又不用換車。
+  figures:
+  - img: "/assets/img/nex_train.jpg"
+    caption: 成田エクスプレス（N'EX），新宿方向列車直達新宿站
+  - img: "/assets/img/narita_t2_station.jpg"
+    caption: 成田空港第2ターミナル地下的鐵路車站，JR 與京成驗票口並排
+  - img: "/assets/img/skyliner.jpg"
+    caption: 京成スカイライナー，只到日暮里與京成上野
+  rows:
+  - item: N'EX TOKYO Round Trip Ticket
+    detail: 成田空港↔東京都區（新宿、渋谷、品川、東京、横浜等）去回各一次，14 天有效；去程須「機場→東京方向」、回程須「東京方向→機場」，順序不可顛倒；下 N'EX 後不出站可免費轉乘 JR 東日本在來線，出站即失效。限持非日本護照者，領票時須出示護照正本。普通車指定席免費劃位，綠色車廂不可用。
+    price: "¥5,200（大人）／¥2,600（6–11 歲）"
+    how: JR-EAST Train Reservation 網站線上購買，或抵達後於成田空港第1／第2・3ターミナル站的 JR EAST Travel Service Center 現場購買；領票只能在這兩站。
+    url: https://www.jreast.co.jp/en/multi/pass/nex.html
+  - item: N'EX 單程原價（成田空港→新宿，普通車指定席）
+    detail: 乘車券＋特急券合計；成田空港→東京為 ¥3,140，到新宿／渋谷／品川為 ¥3,330；綠色車廂 ¥4,100。官方對照表：成田↔新宿來回原價 ¥6,660，來回券省約 22%。
+    price: "¥3,330"
+    how: 現場 JR 售票處、指定席售票機（有繁中介面、收信用卡），或 JR-EAST Train Reservation。
+    url: https://www.jreast.co.jp/en/multi/nex/tickets/
+  - item: 京成スカイライナー（成田空港→日暮里／京成上野）
+    detail: 全車指定席，空港第2ビル→日暮里最快約 36 分；乘車券 ¥1,280（IC ¥1,267）＋ライナー券 ¥1,300。到新宿還要在日暮里轉 JR 山手線（約 ¥260），合計約 ¥2,840 且須拖行李轉乘。
+    price: "¥2,580（到日暮里）"
+    how: 成田空港第1／第2・3ターミナル站 Skyliner 售票櫃台、京成資訊中心；或京成官方 Skyliner e-ticket 網站線上預購（有線上折扣價，金額未查證）。
+    url: https://www.keisei.co.jp/keisei/tetudou/skyliner/us/skyliner/purchase.php
+  - item: 京成アクセス特急＋都営新宿線（最便宜鐵路）
+    detail: 空港第2ビル搭京成成田スカイアクセス線アクセス特急，直通都営浅草線到東日本橋，站內步行轉馬喰横山搭都営新宿線到新宿；約 1 小時 26 分、轉 1 次，不需特急券。
+    price: "¥1,480（車票；Yahoo!乗換案内 2026-10 查詢）"
+    how: 直接刷 IC 卡進站，或在京成售票機買到新宿的車票。
+    url: https://transit.yahoo.co.jp/
+  - item: 利木津巴士（Airport Limousine Bus）成田→新宿地區
+    detail: 停靠新宿站西口京王百貨店前、バスタ新宿，以及京王プラザ、ハイアット リージェンシー、ヒルトン東京、ワシントンホテル等西新宿飯店；行李交給司機放車底，不必自己扛。
+    price: "¥3,600（大人）／¥1,800（兒童）"
+    how: 官方網站線上購票（信用卡，上車出示 QR 票），或抵達當天在機場入境大廳的巴士售票櫃台／售票機買指定班次票（現金、信用卡，櫃台可用 IC 卡）。
+    url: https://www.limousinebus.co.jp/en/line/detail/Narita-Shinjuku/
+  steps_title: N'EX 來回券線上購買與機場領票步驟
+  steps:
+  - 出發前 1 個月內，打開 JR-EAST Train Reservation（https://www.eki-net.com/en/jreast-train-reservation/Top/Index），右上角可切換語言（有繁體中文）。
+  - 首頁點「Purchase a pass」（パスの購入），在列表中選「N'EX TOKYO Round Trip Ticket」，按「Purchase this pass」。
+  - 系統要求登入；沒有帳號就在登入畫面選新會員註冊（Email、密碼），完成後會自動回到購買流程。
+  - 輸入使用人數（一次最多 6 人；兩人一起買，日後劃位會綁同一行程）與使用開始日（填 2027-03-27）。購買後人數與開始日不能改，只能退票重買。
+  - 依序填每位旅客的姓名、出生年、護照發行國、護照號碼；姓名中間不能有空格，要連在一起打。
+  - 確認票種與價格（¥5,200×2）後按「Next」，勾選同意服務條款與隱私政策，再按「Next」。
+  - 輸入信用卡資料後按「Apply」（申し込む）完成付款。
+  - 完成頁有「Reserve outbound seat」（往路の指定席を予約する）與「Reserve return seat」（復路の指定席を予約する）：去程選 3/27 抵達後的班次（成田空港第2・3ターミナル→新宿），回程選 3/31 15:30 左右新宿發的班次，兩人座位一起選。普通車指定席不加價。
+  - 同一頁按「Show QR code」，把領票用 QR code 截圖存手機；之後也可以在網站「申込履歴」裡再叫出來。
+  - 抵達成田後從第2ターミナル入境大廳往 B1 走到 JR 車站，找有護照讀取器的「指定席券売機」（黑色標誌，6:30–21:45），或 JR EAST Travel Service Center（8:30–20:00）。兩人必須同時在場、帶護照正本。
+  - 售票機選右側「QR code or pickup code」，把手機 QR code 對準右下角鏡頭（讀不到就按「Enter pickup code」輸入最多 17 位的取票碼，或插入購買時用的信用卡）。
+  - 確認內容後按「Issue tickets for this reservation」，依畫面掃描護照，機器會吐出來回券與指定席券；每人一套，回程那張要收好到最後一天。
+  tips:
+  - 來回券的回程不必從新宿上車，但一定要是「東京方向→成田」；第 5 天從新宿 15:30 上車前，記得把票插進 JR 驗票閘門，不是刷 IC 卡。
+  - 劃了位卻不搭，一定要上網取消；列車開出後不能退票。
+  - N'EX 大行李區免預約、先到先放，有轉盤式密碼鎖；滿了就放腳邊或頭上行李架。
+  - 官方公告 2026-11-06～11-08 部分 N'EX 停駛，與本行程無關，但出發前仍建議看一次 JR 東日本營運公告。
+  sources:
+  - name: JR東日本 N'EX TOKYO Round Trip Ticket
+    url: https://www.jreast.co.jp/en/multi/pass/nex.html
+  - name: JR東日本 N'EX 票價與購票方式
+    url: https://www.jreast.co.jp/en/multi/nex/tickets/
+  - name: JR東日本 N'EX 介紹與 FAQ（領票地點與時間）
+    url: https://www.jreast.co.jp/en/multi/nex/
+  - name: JR東日本 How to Buy a Pass（資格與退票）
+    url: https://www.jreast.co.jp/en/multi/pass/purchase_nex.html
+  - name: JR-EAST Train Reservation 購買 Pass 操作說明
+    url: https://www.eki-net.com/top/tr/guide/reserve/pass.html
+  - name: JR-EAST Train Reservation 領票方式
+    url: https://www.eki-net.com/top/tr/guide/receive/
+  - name: 京成 Skyliner 購票與票價
+    url: https://www.keisei.co.jp/keisei/tetudou/skyliner/us/skyliner/purchase.php
+  - name: 京成 Skyliner e-ticket
+    url: https://www.keisei.co.jp/keisei/tetudou/skyliner/e-ticket/en/
+  - name: Airport Limousine Bus 新宿地區⇔成田空港
+    url: https://www.limousinebus.co.jp/en/line/detail/Narita-Shinjuku/
+  - name: Yahoo!乗換案内（norikae MCP，2026-10-16 查詢 空港第２ビル→新宿）
+    url: https://transit.yahoo.co.jp/
+- id: ic-card
+  label: IC
+  title: 一張 Suica 走遍東京，iPhone 甚至不用排隊
+  intro: 東京的電車、地鐵、巴士、便利商店都吃同一種 IC 卡。2023 年缺晶片停售的實體 Suica／PASMO，已於 2025-03-01 恢復販售；給觀光客的 Welcome Suica 免押金、可用 28 天。iPhone 使用者可直接在錢包 App 開一張，或下載 JR 東日本的 Welcome Suica Mobile。
+  verdict: iPhone 用 Welcome Suica Mobile 或錢包內建 Suica 最省事；Android 或想要實體卡的人，在成田第2・3ターミナル站買 Welcome Suica，每人先儲值 ¥3,000。
+  figures:
+  - img: "/assets/img/suica_card.jpg"
+    caption: Suica 卡，進出站輕觸感應區即可
+  - img: "/assets/img/ticket_gate.jpg"
+    caption: 自動驗票閘門，IC 卡碰右手邊的藍色感應面
+  rows:
+  - item: Welcome Suica（實體卡）
+    detail: 觀光客專用，不收押金、購買日起 28 天有效；餘額不能退，用完或到期就算了。可搭東京都內電車、地鐵、巴士、東京單軌電車，也能在便利商店、自動販賣機、置物櫃付款。不能跨區連續搭乘（例如東京區搭到仙台區）。
+    price: 免押金；儲值額依購買時選擇
+    how: 成田空港第2・3ターミナル站的 Welcome Suica 售票機、JR EAST Travel Service Center；東京、渋谷、新宿、池袋、上野站的 Travel Service Center 也有賣。
+    url: https://www.jreast.co.jp/en/multi/welcomesuica/purchase.html
+  - item: 一般 Suica（實體卡）
+    detail: 2025-03-01 起無記名卡恢復販售。購買金額含 ¥500 押金，可選 ¥1,000～¥10,000；餘額上限 ¥20,000。實體卡只能用現金在車站售票機、精算機加值，不能刷信用卡加值。
+    price: "¥1,000 起（含押金 ¥500）"
+    how: JR 東日本車站售票機（購買地點官方英文頁未逐站列出）。
+    url: https://www.jreast.co.jp/en/multi/pass/suica.html
+  - item: Welcome Suica Mobile（iPhone App）
+    detail: JR 東日本官方 App，只有 iOS 版。在 App 裡發行 Suica，用 Apple Pay 綁定的信用卡加值，App 內不必另外輸入卡號；也能用 App 搭 JR 東日本區域新幹線自由席。必須開啟定位，部分國家限制發行或加值，官方建議入境日本後再試。
+    price: App 免費；儲值金額自選
+    how: App Store 搜尋「Welcome Suica Mobile」下載，入境後開啟定位再發卡。
+    url: https://www.jreast.co.jp/en/multi/welcomesuicamobile/
+  - item: iPhone 錢包內建 Suica
+    detail: 不裝 App 也可以：Wallet 直接新增 Suica。需 iPhone 8 以後機型、Apple 帳號開啟雙重認證、錢包裡有可用的付款卡。第一張交通卡會自動開啟快速交通卡模式，鎖定畫面也能直接刷。
+    price: 儲值金額自選
+    how: Wallet → 右上角「+」→ Transit Card → Suica → Add New Card → 選金額 → Apple Pay 付款。
+    url: https://support.apple.com/en-us/108772
+  - item: Android 手機
+    detail: Welcome Suica Mobile 沒有 Android 版。台灣買的 Android 手機多半沒有日本規格 FeliCa 晶片，無法使用 Google 錢包的 Suica（未逐一查證機型）。
+    price: "-"
+    how: 直接買實體 Welcome Suica 或一般 Suica。
+    url: https://www.jreast.co.jp/en/multi/welcomesuicamobile/
+  - item: 加值與退卡
+    detail: 實體卡：車站售票機或精算機選「Charge」，只收現金，¥500／1,000／2,000／3,000／5,000／10,000 為單位。一般 Suica 在 JR 東日本車站退卡：退 ¥500 押金＋餘額，但扣 ¥220 手續費（例：餘額 ¥1,000 退 ¥1,280）。Welcome Suica 不退餘額，最後幾天把餘額花在便利商店最划算。
+    price: 退卡手續費 ¥220（一般 Suica）
+    how: 退卡找 JR 東日本車站窗口；東京單軌電車等他社發行的 Suica 不能在 JR 退。
+    url: https://www.jreast.co.jp/en/multi/pass/suica.html
+  steps_title: iPhone 在錢包加入 Suica 的步驟
+  steps:
+  - 確認 iPhone 是 8 以後機型、iOS 是最新版、Apple 帳號已開雙重認證，錢包裡已有一張信用卡。
+  - 打開「錢包」App，點右上角「+」。
+  - 選「交通卡」（Transit Card），在清單裡點「Suica」。
+  - 點「新增卡片」（Add New Card），選要儲值的金額後按「新增」。
+  - 依畫面用 Face ID／Touch ID 以 Apple Pay 付款，出現「卡片已加入」就完成；第一張交通卡會自動設為快速交通卡。
+  - 進站時不用解鎖、不用開 App，把 iPhone 上緣靠近閘門感應區即可；餘額不足時在錢包點 Suica →「儲值」再加。
+  - 另一個做法：下載 Welcome Suica Mobile，入境日本後開啟定位，在 App 內設定一組通關字（secret keyword）發卡，再用 Apple Pay 儲值，卡片會自動放進錢包。
+  tips:
+  - 兩人各用一張卡，不能一張卡刷兩次進站；同行者不能共用一支手機的 Suica。
+  - Apple Watch 版 Suica 若手錶不是日本購買的機型，官方註明可能不支援，請以 iPhone 為主。
+  - 實體 Welcome Suica 沒有押金，退不回餘額；最後一天先在 7-Eleven、全家用 Suica 付零食，把錢花完再去機場。
+  - 精算機（のりこし精算機）在驗票閘門內側，卡被閘門擋下顯示餘額不足時，到這台加值後再出站。
+  sources:
+  - name: JR東日本 What's a Suica
+    url: https://www.jreast.co.jp/en/multi/suica/
+  - name: JR東日本 Suica（押金、加值、退卡）
+    url: https://www.jreast.co.jp/en/multi/pass/suica.html
+  - name: JR東日本 Welcome Suica
+    url: https://www.jreast.co.jp/en/multi/welcomesuica/welcomesuica.html
+  - name: JR東日本 Welcome Suica 購買地點
+    url: https://www.jreast.co.jp/en/multi/welcomesuica/purchase.html
+  - name: JR東日本 Welcome Suica Mobile
+    url: https://www.jreast.co.jp/en/multi/welcomesuicamobile/
+  - name: JR東日本新聞稿 無記名 Suica・PASMO 恢復販售（2025-03-01）
+    url: https://www.jreast.co.jp/press/2024/20250218_ho02.pdf
+  - name: Apple 支援 在日本將交通卡加入 Apple 錢包
+    url: https://support.apple.com/en-us/108772
+  - name: App Store Welcome Suica Mobile
+    url: https://apps.apple.com/us/app/welcome-suica-mobile/id6738336566
+- id: city-pass
+  label: 周遊
+  title: 算過才知道，這趟東京不需要地鐵通票
+  intro: Tokyo Subway Ticket 可在 24／48／72 小時內無限搭東京メトロ與都営地下鉄全線，但不含 JR、東急、小田急。我們把五天每段車資用 IC 卡運賃加總：真正搭地鐵的日子只有第 2 天和第 5 天，而且單日地鐵花費都不到 ¥1,000。
+  verdict: 不買。整趟市區車資每人約 ¥2,163（含 JR、東急），其中地鐵部分單日最多 ¥778，連 24 小時券 ¥1,000 都回不了本，直接刷 IC 卡最划算。
+  figures:
+  - img: "/assets/img/shinjuku_sta.jpg"
+    caption: 新宿站，JR、小田急、京王、東京メトロ、都営地下鉄交會
+  rows:
+  - item: Tokyo Subway 24-hour Ticket
+    detail: 使用開始起 24 小時，東京メトロ全線＋都営地下鉄全線；不含 JR、東急、小田急、京成。
+    price: "¥1,000（大人）／¥500（兒童）"
+    how: 訪日外國人：都営大江戸線新宿西口駅、浅草線新橋駅、大江戸線上野御徒町駅的 Tourist Information Center（8:00–20:00，須出示護照），或官方網站買 QR 版再到指定售票機換票；機場觀光服務處與家電量販店也有賣。
+    url: https://www.kotsu.metro.tokyo.jp/subway/fare/otoku_limited.html
+  - item: Tokyo Subway 48-hour Ticket
+    detail: 同上，使用開始起 48 小時。
+    price: "¥1,500（大人）／¥750（兒童）"
+    how: 同上。
+    url: https://www.tokyometro.jp/tcn/ticket/travel/index.html
+  - item: Tokyo Subway 72-hour Ticket
+    detail: 同上，使用開始起 72 小時。
+    price: "¥2,000（大人）／¥1,000（兒童）"
+    how: 同上；京成另有 Skyliner＋Subway Ticket 套票。
+    url: https://www.tokyometro.jp/tcn/ticket/travel/index.html
+  - item: 試算 Day 2（新宿→浅草→上野、日暮里→秋葉原→新宿）
+    detail: 新宿→浅草 丸ノ内線轉銀座線 ¥252；浅草→上野 銀座線 ¥178；日暮里→秋葉原 JR 山手線 ¥199；秋葉原→新宿 JR 總武線 ¥209。地鐵部分 ¥430。
+    price: IC 合計 ¥838／人
+    how: 全程刷 IC 卡。
+    url: https://transit.yahoo.co.jp/
+  - item: 試算 Day 3（新宿→原宿、渋谷→中目黒→新宿）
+    detail: 新宿→原宿 JR 山手線 ¥155；渋谷→中目黒 東急東横線 ¥140；中目黒→新宿 東急東横線直通副都心線經新宿三丁目約 ¥252（含東急段，通票不適用東急）。
+    price: IC 合計 ¥547／人
+    how: 全程刷 IC 卡。
+    url: https://transit.yahoo.co.jp/
+  - item: 試算 Day 5（新宿→築地市場→九段下→新宿）
+    detail: 新宿→築地市場 都営大江戸線直達 ¥272；築地市場→九段下 大江戸線轉東京メトロ東西線（門前仲町）¥286；九段下→新宿 都営新宿線直達 ¥220。三段都是地鐵。
+    price: IC 合計 ¥778／人
+    how: 刷 IC 卡；即使買 24 小時券也虧 ¥222。
+    url: https://transit.yahoo.co.jp/
+  - item: 結論：五天市區車資總和
+    detail: Day 1 與回程用 N'EX 來回券、Day 4 用江の島・鎌倉フリーパス，不計入。Day 2＋3＋5 合計每人 ¥2,163，地鐵可涵蓋部分約 ¥1,200 且分散在不連續的日子。
+    price: "¥2,163／人（兩人 ¥4,326）"
+    how: 每人 IC 卡先儲值 ¥3,000，涵蓋車資與便利商店小額消費。
+    url: https://transit.yahoo.co.jp/
+  steps_title: 如果仍想買 Tokyo Subway Ticket（例如臨時增加地鐵行程）
+  steps:
+  - 住新宿西口最近的實體售票點是都営大江戸線「新宿西口駅」的 Tourist Information Center，8:00–20:00，帶護照。
+  - 或在官方網站（tokyometrods.triplabo.com，可選英文）線上購買 QR 版，一人一張，可把多買的票轉送到同行者手機。
+  - QR 版要到支援 QR 發券的地鐵售票機換成實體票，或依網站說明直接使用；支援站點見都営交通局公告的 PDF 地圖。
+  - 實體票第一次通過驗票閘門才開始計時；PASMO 版則從購買時起算。
+  tips:
+  - 東急東横線（渋谷→中目黒）與 JR 山手線都不在通票範圍，這兩段最常讓人以為買了通票就全包。
+  - 都営與東京メトロ互轉時，IC 卡會自動套用轉乘折扣，像築地市場→九段下就只算 ¥286。
+  - Yahoo!乗換案内的 IC 運賃與實際扣款一致，到現場想確認可用 Google Maps 看大概，但金額以 IC 運賃為準。
+  sources:
+  - name: 東京都交通局 Tokyo Subway Ticket（價格、範圍、販售地點）
+    url: https://www.kotsu.metro.tokyo.jp/subway/fare/otoku_limited.html
+  - name: 東京メトロ Tokyo Subway Ticket（繁中）
+    url: https://www.tokyometro.jp/tcn/ticket/travel/index.html
+  - name: Yahoo!乗換案内（norikae MCP，2026-10-16 查詢各段 IC 運賃）
+    url: https://transit.yahoo.co.jp/
+- id: kamakura-pass
+  label: 鎌倉
+  title: 一張フリーパス，從新宿坐到海邊再坐回來
+  intro: 小田急的「江の島・鎌倉フリーパス」包含新宿到藤沢的來回各一次，加上藤沢～片瀬江ノ島的小田急線與江ノ電全線一日無限搭。手機版在 EMot 購買，掃 QR code 過閘門；紙本在小田急新宿站售票機就能買。
+  verdict: 買。依第 4 天路線（新宿→藤沢→江ノ電→鎌倉→江ノ島→片瀬江ノ島→新宿）IC 逐段加總每人 ¥1,826，フリーパス ¥1,640，每人省 ¥186，中途多下車一次省更多；坐快速急行不加錢。
+  figures:
+  - img: "/assets/img/odakyu_train.jpg"
+    caption: 小田急線快速急行，新宿始發直達藤沢，不需特急券
+  - img: "/assets/img/enoden_car.jpg"
+    caption: 江ノ電車廂，鎌倉高校前一帶沿海行駛
+  - img: "/assets/img/katase_enoshima_station.jpg"
+    caption: 小田急片瀬江ノ島駅，回程從這裡上車
+  rows:
+  - item: 江の島・鎌倉フリーパス（新宿發）
+    detail: 1 日有效。含小田急線新宿～藤沢來回各一次（中途下車要告知站員），藤沢～片瀬江ノ島與江ノ電全線無限搭，另附沿線景點、咖啡店優惠。超出範圍要補差額。紙本在旅程結束站回收。
+    price: "¥1,640（大人）／¥430（兒童）"
+    how: EMot App 或 EMot Online Tickets（手機網頁）購買數位版；或小田急各站售票機、窗口、小田急旅行中心購買紙本。
+    url: https://www.odakyu-freepass.jp/enokama/buy.html
+  - item: 逐段 IC 運賃加總（比較用）
+    detail: 新宿→藤沢 小田急 ¥607；藤沢→鎌倉 江ノ電 ¥310；鎌倉→江ノ島 江ノ電 ¥260；片瀬江ノ島→新宿 小田急 ¥649。
+    price: "¥1,826／人"
+    how: フリーパス每人省 ¥186；若在長谷、鎌倉高校前多下車一次，每次再多省約 ¥200。
+    url: https://transit.yahoo.co.jp/
+  - item: 快速急行
+    detail: 小田急一般列車（有「快速急行」字樣、藍色系車身），不收特急費，フリーパス直接搭。新宿 4、5 番線常見「藤沢行」始發，約 56 分到藤沢。
+    price: 不加價
+    how: 直接過閘門上車。
+    url: https://www.odakyu-freepass.jp/enokama/
+  - item: 浪漫特急（ロマンスカー）加購特急券
+    detail: 全車指定席。新宿→藤沢、新宿→片瀬江ノ島的特急費相同；上車前沒買，車上補票要多付 ¥350。往江ノ島方向的班次很少。
+    price: "¥700（網路チケットレス）／¥750（窗口、售票機）"
+    how: EMot Online Tickets 或小田急網站購買特急券，或在站內售票機買；フリーパス只抵車資，特急費另付。
+    url: https://www.odakyu.jp/romancecar/charges/shinjuku_katase_enoshima/index.html
+  - item: 江ノ電 1 日乗車券「のりおりくん」
+    detail: 只含江ノ電全線一日無限搭，不含小田急。第 4 天江ノ電只搭藤沢→鎌倉、鎌倉→江ノ島兩段共 ¥570，買のりおりくん反而多花。
+    price: "¥800（大人）／¥400（兒童）"
+    how: 江ノ電全站售票機；或 EMot 數位版。
+    url: https://www.enoden.co.jp/tourism/ticket/noriorikun/
+  steps_title: 購買方式：EMot 數位版與新宿站售票機
+  steps:
+  - "【數位版】在 App Store 或 Google Play 下載「EMot」，或用手機瀏覽器開 EMot Online Tickets（https://www.emot-tickets.jp/），把語言切到 English。"
+  - 用 Email 或 Google 帳號註冊並登入。之後要用同一種方式登入才看得到票，Email 大小寫也要一致。
+  - 搜尋「Enoshima-Kamakura Freepass」（デジタル江の島・鎌倉フリーパス），出發站選「新宿」（Shinjuku），選使用日期，用信用卡付款。乘車日前 1 個月起可購買。
+  - 這張票原則上一支手機一張、一人一份；兩人可各自用手機買，或由一人購買後用「轉讓」功能傳給同行者，也可用「群組票」功能讓一支手機帶最多 4 人（全員同一行程）。
+  - 當天在小田急新宿站閘門，打開票券畫面顯示 QR code，對準閘門或有人窗口上的 QR 讀取機；江ノ電無人站用藍色簡易閘機上的讀取端末，有人站走站員窗口，不能用自動閘門。
+  - "【紙本】到小田急新宿站西口地上的小田急線售票機，選畫面上的「English」或中文按鈕，找「お得なきっぷ／Discount tickets」→「江の島・鎌倉フリーパス」，選大人 2 張；可付現金、IC 卡或 Visa、Mastercard、JCB、AMEX、Diners 信用卡。售票機只賣當天有效的票。"
+  - 紙本票每段都插進閘門再取回，最後在新宿出站時會被回收。
+  tips:
+  - 在 JR 鎌倉站要走江ノ電的西口驗票口進出，フリーパス不能用 JR 鎌倉站東口通過。
+  - 小田急段（新宿～藤沢）只能來回各一次，想中途下車（例如町田）要先跟站員說，別直接過閘門。
+  - 因天候停駛導致完全沒搭到的交通工具，可在旅程結束站退回那一段的錢。
+  - 快速急行常停在新宿 4、5 番線，看月台電子看板寫「快速急行 藤沢」再上車；同月台的「小田原行」要在相模大野轉車。
+  sources:
+  - name: 小田急 江の島・鎌倉フリーパス 料金・発売箇所
+    url: https://www.odakyu-freepass.jp/enokama/buy.html
+  - name: 小田急 江の島・鎌倉フリーパス 介紹
+    url: https://www.odakyu-freepass.jp/enokama/
+  - name: EMot デジタル江の島・鎌倉フリーパス
+    url: https://www.emot.jp/service/detail/enokama.html
+  - name: 小田急 QR コード付きデジタルチケットの使い方
+    url: https://www.odakyu-freepass.jp/digitaltickets/use.html
+  - name: Odakyu Global 江の島・鎌倉フリーパス FAQ（售票機付款方式）
+    url: https://odakyu-global.com/passes/enoshima-kamakura-freepass/
+  - name: 小田急 ロマンスカー料金表（新宿⇔片瀬江ノ島）
+    url: https://www.odakyu.jp/romancecar/charges/shinjuku_katase_enoshima/index.html
+  - name: 江ノ島電鉄 のりおりくん
+    url: https://www.enoden.co.jp/tourism/ticket/noriorikun/
+  - name: Yahoo!乗換案内（norikae MCP，2026-10-16 查詢小田急、江ノ電 IC 運賃）
+    url: https://transit.yahoo.co.jp/
+- id: ride-howto
+  label: 乗車
+  title: 看懂月台、記住末班車，東京電車其實很好搭
+  intro: 東京的車站標示都有英文、多數也有中文，只要記住「路線顏色＋路線代號＋終點站」三件事就不會坐錯。這一節整理售票機切語言、刷卡過閘門、找月台與轉乘、末班車時間，以及大行李怎麼處理。
+  verdict: 出門前用 Google Maps 查好路線與月台號，全程刷 IC 卡；晚上 23:30 以後回新宿就要開始注意末班車。
+  figures:
+  - img: "/assets/img/ticket_gate.jpg"
+    caption: 自動驗票閘門，綠燈箭頭可通行，紅色禁止符號不能走
+  - img: "/assets/img/shinjuku_sta.jpg"
+    caption: 新宿站內以顏色區分各路線，跟著色帶走最不容易迷路
+  - img: "/assets/img/enoden.jpg"
+    caption: 江ノ電有人站要走站員窗口，不走自動閘門
+  rows:
+  - item: 售票機切中文
+    detail: JR 指定席售票機官方支援英文、簡體中文、繁體中文、韓文，收 ¥1,000／2,000／5,000／10,000 紙鈔與信用卡。一般車票售票機與地鐵售票機畫面右上角通常有「English／中文」按鈕。
+    price: "-"
+    how: 畫面右上角點語言按鈕；有 IC 卡就不必買單程票。
+    url: https://www.jreast.co.jp/en/multi/nex/tickets/
+  - item: IC 卡過閘門
+    detail: 進站與出站都把卡（或 iPhone）輕觸閘門右側感應面，聽到「嗶」、看到餘額即可通過；出站時自動扣款。坐特急（N'EX、ロマンスカー）或綠色車廂要另買特急券。
+    price: 依 IC 運賃自動扣款
+    how: 一人一卡，不要兩人共用。
+    url: https://www.jreast.co.jp/en/multi/pass/suica.html
+  - item: 看月台與轉乘
+    detail: 站內看板以路線顏色＋代號（例：銀座線 G、丸ノ内線 M、大江戸線 E、新宿線 S、JR 山手線 JY）標示，再看「往○○方面」決定月台。轉乘跟著寫「乗換／Transfer」與目標路線顏色的指標走；都営與東京メトロ互轉若要通過站內的「乗換改札」（轉乘專用閘門），IC 卡照刷即可，不會重複收起跳費。
+    price: "-"
+    how: 上車前看月台電子看板的終點站與「各停／快速／急行」字樣。
+    url: https://www.tokyometro.jp/tcn/ticket/travel/index.html
+  - item: 末班車大約時間
+    detail: 以平日為例（2026-10 時刻表）：浅草→新宿最晚約 00:10 發（銀座線轉 JR，00:53 到新宿）；都営浅草線轉都営新宿線約 23:57 發、00:29 到新宿。多數路線末班在 00:00～00:30 之間，週末與 2027-03 改點後可能不同。
+    price: "-"
+    how: Google Maps 或 Yahoo!乗換案内把出發時間設成「終電」查詢。
+    url: https://transit.yahoo.co.jp/
+  - item: Google Maps 轉乘
+    detail: 目的地輸入日文或英文站名，選「大眾運輸」圖示，會列出搭乘路線、月台號、所需時間與票價；點路線可看幾號出口。金額為參考值，以 IC 運賃為準。
+    price: "-"
+    how: 出發前先把各日目的地存成「已儲存」地點，到現場一鍵導航。
+    url: https://www.google.com/maps
+  - item: 大行李上車規定（JR 東日本）
+    detail: 免費，每人最多 2 件，三邊和 250 cm 以內、每件 30 kg 以內、長度 2 m 以內；放頭上行李架、腳邊或行李區，免預約。東海道新幹線特大行李預約規定不適用本行程。N'EX 有專用行李區與轉盤式密碼鎖。
+    price: 免費
+    how: 上 N'EX 先把行李鎖在車門旁行李區，再去對號入座。
+    url: https://www.jreast.co.jp/en/multi/luggage-area/
+  - item: 行李宅配（ヤマト運輸 空港宅急便）
+    detail: 可把行李從機場寄到飯店，或從飯店寄回機場；每件 30 kg 以內。寄到機場須出發前 2 天（部分地區 3 天）交寄，運費另加機場手續費 ¥660。費用依行李尺寸（60～200 cm 級距）與起訖地區計算。
+    price: 依尺寸計價（官方網頁需互動查詢，金額未取得）
+    how: 成田空港入境大廳的ヤマト（黑貓）櫃台填單交寄；從飯店寄回機場可請櫃台協助。
+    url: https://www.kuronekoyamato.co.jp/ytc/en/send/services/airport/
+  steps_title: 第一次搭東京電車的流程
+  steps:
+  - 出門前在 Google Maps 輸入目的地，選大眾運輸，記下路線名稱、顏色、往哪個終點方向、預計月台號。
+  - 到站後找路線顏色的指標走到驗票閘門，IC 卡碰右側感應面進站。
+  - 看月台號與電子看板上的終點站，確認是「各停」還是「快速／急行」，快車會跳過小站。
+  - 上車後看車門上方螢幕（有英文，部分有中文）確認下一站；要轉乘就在站內跟著「乗換／Transfer」走，不必出站。
+  - 到站後看出口編號（例：A3、西口）再出閘門，IC 卡碰一下自動扣款；餘額不足時閘門會擋下，到旁邊的精算機加值。
+  tips:
+  - 新宿站很大，回飯店前先確認要走「西口」；從都営新宿線或大江戸線出來，跟著「新宿西口」或「都庁前」方向指標。
+  - 早上 07:30～09:30 通勤尖峰，帶大行李盡量避開；第 5 天搭 N'EX 前，15:00 以前就該回到新宿站。
+  - 電車上不講電話，手機轉靜音；後背包上車改背在胸前或放行李架。
+  - Yahoo!乗換案内與 Google Maps 都能把時間設成「終電」，晚上去淺草、秋葉原，回程最好在 23:00 前出發。
+  sources:
+  - name: JR東日本 Oversized Luggage Guide
+    url: https://www.jreast.co.jp/en/multi/luggage-area/
+  - name: JR東日本 N'EX 購票（指定席售票機語言、付款）
+    url: https://www.jreast.co.jp/en/multi/nex/tickets/
+  - name: JR東日本 Suica 使用方式
+    url: https://www.jreast.co.jp/en/multi/pass/suica.html
+  - name: ヤマト運輸 空港宅急便
+    url: https://www.kuronekoyamato.co.jp/ytc/en/send/services/airport/
+  - name: Yahoo!乗換案内（norikae MCP，2026-10-16 查詢 浅草→新宿 終電）
+    url: https://transit.yahoo.co.jp/
+- id: admission
+  label: 入場
+  title: 門票多半在現場刷卡就好，只有御苑週末那張要提早搶
+  intro: 這趟會經過的寺社與庭園，大多數是免費或幾百日圓的拝観料，在門口買就行。真正會卡住人的只有三件事：新宿御苑櫻花季週末的日時指定預約、千鳥ヶ淵划船的排隊，以及 teamLab 只賣線上票。下表依行程順序整理，價格都是官方網站 2026-10-16 查到的數字。
+  verdict: 要先在網路上買的：新宿御苑（若 3/27 屬預約日）、teamLab Planets（現場不售票）；建議先買：東京国立博物館（省排隊）；其餘全部現場買，鎌倉兩寺請備零錢。
+  figures:
+  - img: "/assets/img/shinjuku_gyoen.jpg"
+    caption: 新宿御苑的櫻花季週末，10:00～16:00 入園需事前購買日時指定電子票（2025、2026 年皆如此）
+  - img: "/assets/img/chidorigafuchi.jpg"
+    caption: 千鳥ヶ淵ボート場，觀櫻期 30 分鐘 1 艘 ¥1,500，滿開週末現場可能排 2～3 小時
+  - img: "/assets/img/daibutsu.jpg"
+    caption: 鎌倉大仏：拝観 ¥300，進入大佛內部（胎内）另付 ¥50，胎内 16:30 結束
+  rows:
+  - item: 新宿御苑（Shinjuku Gyoen）
+    detail: 3/15～9/30 開園 9:00～18:00（最終入園 17:30）。平時週一休，但 3/25～4/24 櫻花特別開園期間每天開。櫻花季週末 10:00～16:00 入園採預約制（2026 年為 3/28、3/29、4/4、4/5）；9:00～10:00 與 16:00～17:30 入園免預約。園內禁止帶酒（入口會檢查手提包）、禁球類／飛盤／羽球／野餐帳篷與陽傘，櫻花期禁止跑步、禁用三腳架拍人像。
+    price: "¥500"
+    how: 平日：現場售票口，或入園閘門直接刷 Suica 等交通 IC 卡；也可在 asoview 先買不指定日期的電子票（購買後 6 個月內有效）。預約日：只能在 asoview 買日時指定電子票（信用卡／PayPay／Paidy），沒有票 10:00～16:00 進不去。
+    url: https://policies.env.go.jp/national-garden/shinjukugyoen/guide/information/
+  - item: 東京都庁 展望室（南・北）
+    detail: 免費、不能預約。南展望室 9:30～22:00（最終入室 21:30），每月第 1、第 3 週二休；北展望室 9:30～17:30（最終入室 17:00），每月第 2、第 4 週一休。2027 年 3 月的休室日推算為南 3/2、3/16，北 3/8、3/22，所以 3/27～3/31 南北都開（另有不定期「庁舎点検日」與天候臨時關閉）。週末從第一本庁舎 1 樓正門進，搭展望室專用電梯；入室前有安檢，常排 20～30 分。禁用三腳架。
+    price: 免費
+    how: 直接排隊，不需票
+    url: https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou
+  - item: 浅草寺（Sensō-ji）
+    detail: 境內 24 小時可進，免費。本堂 6:00～17:00（10～3 月 6:30 開堂，所以 3/27～3/31 是 6:30）。雷門、五重塔等夜間打燈到約 23:00。
+    price: 免費（おみくじ投幣，一般為 ¥100）
+    how: 籤筒旁投幣箱，只能投日圓硬幣
+    url: https://www.senso-ji.jp/
+  - item: 東京国立博物館（TNM）東博コレクション展
+    detail: 9:30～17:00；週五、週六開到 20:00（入館至閉館前 30 分）。3/28（日）營業到 17:00。官方已公告 2027-03-29（一）也開館。自 2026-08-01 起禁止攜帶行李箱入館（館內無行李寄放，請先寄放車站置物櫃）；自 9/8 起正門有金屬探測與手提包檢查。2026-12-14～2027-04-25 本館 2～3 室、2026-10-26～2027-04-25 本館 4 室閉室整修。特別展另購票，特別展票當天可看常設展。
+    price: "¥1,000"
+    how: asoview 電子票（不指定日期，購買後 2 個月內有效；信用卡／PayPay／Paidy），或正門窗口（信用卡、Suica 等 IC 卡、iD、WAON、銀聯）。擁擠時窗口要排 30 分以上。
+    url: https://www.tnm.jp/modules/r_free_page/index.php?id=113
+  - item: 明治神宮（Meiji Jingū）
+    detail: 參拜免費。開門隨日出日落變動，3 月約 5:40 開、17:20 關（4 月為 5:10～17:50）。境內「明治神宮御苑」（清正井）另收維持協力金，3～10 月 9:00～16:30。
+    price: 免費（御苑 ¥500）
+    how: 御苑在入口付維持協力金
+    url: https://www.meijijingu.or.jp/
+  - item: 目黒川（Meguro River）
+    detail: 沿岸步道免費，沒有門票。櫻花季週末人潮極多，沿河常有單向通行與禁止停留的管制。
+    price: 免費
+    how: "—"
+    url: https://www.city.meguro.tokyo.jp/
+  - item: 高徳院 鎌倉大仏（Kōtoku-in）
+    detail: 不需預約。10～3 月 8:00～17:00、4～9 月 8:00～17:30，入場至閉門前 15 分；所以 3/31 前是 17:00 關。大佛胎内拝観全年 8:00～16:30（入場至 16:20）。境內禁止飲食與帶食物進入（僅可帶有蓋的寶特瓶、水壺），沒有垃圾桶；胎内禁止使用自拍棒。不能重複入場。
+    price: "¥300＋胎内 ¥50＝¥350"
+    how: 現場券売場；胎内費在胎内入口另付
+    url: https://www.kotoku-in.jp/
+  - item: 長谷寺（Hase-dera）
+    detail: 一般期 8:00～16:30 受付（17:00 閉山）；4～6 月延長為 8:00～17:00（17:30 閉山）。3/27～3/31 屬一般期，16:30 前要進門。寵物須放入提籠。
+    price: "¥400"
+    how: 現場拝観受付
+    url: https://www.hasedera.jp/guide/
+  - item: 鶴岡八幡宮（Tsurugaoka Hachimangū）宝物殿
+    detail: 參拜免費。宝物殿 9:00～16:00，原則無休（換展時休館）。
+    price: 免費（宝物殿 ¥200）
+    how: 現場
+    url: https://www.hachimangu.or.jp/activity/facility/homotsuden.html
+  - item: 江の島サムエル・コッキング苑・江の島シーキャンドル
+    detail: 苑與シーキャンドル 9:00～20:00（最終入場 19:30）；江の島エスカー（戶外電扶梯，共 3 段）8:50～19:05。コッキング苑白天免費，只有舉辦夜間活動時 17:00 後收費（春季「江の島アートフェスティバル」4 月上旬才開始，3/27～3/31 通常不在活動期，但出發前再看）。シーキャンドル單買 ¥800、エスカー全區 ¥500。
+    price: シーキャンドルセット券 ¥1,100（エスカー＋シーキャンドル）；江の島1day ¥1,550（再加岩屋）
+    how: エスカー1区乗り場現場買（現金、信用卡、交通 IC 卡、PayPay），或官網連到的線上票。1day 另可在片瀬江ノ島観光案内所、藤沢市観光案内センター購買。
+    url: https://enoshima-seacandle.com/tickets/
+  - item: 千鳥ヶ淵ボート場（Chidorigafuchi Boat）
+    detail: 目前正常營業（千代田區頁面 2026-07-15 更新）。平時 10:00～17:00，週一休，12～2 月冬休。2026 年 3/1 起漲價：觀櫻期 30 分 ¥1,500、60 分 ¥3,000（1 艘，手划船最多 3 人）。2026 年夜櫻打燈期（3/26～4/6）延長營業並每天開。北の丸側石牆有崩落風險，南側水域拉繩禁止進入。船上禁止飲食、飲酒；桟橋禁止拍照；行李只能帶手提的，現場不寄放。
+    price: 1 艘 30 分 ¥1,500（2 人分攤每人 ¥750）
+    how: 現場當日券排隊；或 2026 年新增的「スマートチケット」1 艘 1 小時 ¥12,000，在 WEBKET 刷信用卡事前購買、免排隊（2026 年 3/10～4/5 開賣）
+    url: https://www.city.chiyoda.lg.jp/shisetsu/koen/chidorigafuchi-boat.html
+  - item: teamLab Planets TOKYO DMM（選配）
+    detail: 營運到 2027 年底。8:00～22:00（最終入館 21:00）。現場不賣票。入場時間是排隊時段，不是停留時間；需赤腳、水深到膝蓋，建議穿可捲到膝上的褲子（館內免費借短褲）。免費置物櫃尺寸 23×34×37 cm，行李箱放推車區上鋼索鎖。禁止 30 cm 以上自拍棒。
+    price: 成人 ¥3,800 起（變動票價，依日期時段不同）
+    how: 只能在官方チケットストア線上購買，可於入場開始 2 小時前改時段，最多 3 次；不可退票
+    url: https://www.teamlab.art/jp/e/planets/
+  sources:
+  - name: 環境省 新宿御苑 入園案内
+    url: https://policies.env.go.jp/national-garden/shinjukugyoen/guide/information/
+  - name: 環境省 新宿御苑 園内ルール
+    url: https://policies.env.go.jp/national-garden/shinjukugyoen/guide/rule/
+  - name: asoview 新宿御苑 前売り電子チケット
+    url: https://www.asoview.com/channel/ticket/UM9VyNbM61/ticket0000043167/
+  - name: 東京都財務局 都庁展望室のご利用案内
+    url: https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou
+  - name: 東京国立博物館 交通・料金・開館時間
+    url: https://www.tnm.jp/modules/r_free_page/index.php?id=113
+  - name: asoview 東博コレクション展 前売り電子チケット
+    url: https://www.asoview.com/channel/ticket/jgz3hboMWt/ticket0000027926/
+  - name: 鎌倉大仏殿高徳院 公式
+    url: https://www.kotoku-in.jp/
+  - name: 鎌倉 長谷寺 拝観のご案内
+    url: https://www.hasedera.jp/guide/
+  - name: 鶴岡八幡宮 宝物殿
+    url: https://www.hachimangu.or.jp/activity/facility/homotsuden.html
+  - name: 江の島シーキャンドル 料金・チケット
+    url: https://enoshima-seacandle.com/tickets/
+  - name: 江の島シーキャンドル 営業時間
+    url: https://enoshima-seacandle.com/opening-hours/
+  - name: 千代田区 千鳥ヶ淵ボート場
+    url: https://www.city.chiyoda.lg.jp/shisetsu/koen/chidorigafuchi-boat.html
+  - name: 千代田区観光協会 千鳥ヶ淵ボート乗船
+    url: https://visit-chiyoda.tokyo/sakura/spot/boat.php
+  - name: teamLab Planets TOKYO 公式
+    url: https://www.teamlab.art/jp/e/planets/
+  - name: WaTabi 明治神宮月別開閉門表（輔助來源）
+    url: https://watabi.org/articles/meiji-jingu-guide
+- id: reserve
+  label: 予約
+  title: 出發前要先動手的三件事：御苑、博物館、teamLab
+  intro: 新宿御苑 2025、2026 年都在櫻花滿開的週末實施日時指定預約，2026 年是在 3/2 開放購票。3/27 是週六，很可能被列為 2027 年的預約日，而行程 15:50 入園正好落在 10:00～16:00 的預約時段內。博物館不需要指定日期，提早買只是為了不排窗口。
+  verdict: 2027 年 2 月底起每天看新宿御苑官網；若 3/27 列為預約日，一開放就買 15:30～16:00 時段，或把入園改到 16:00 之後免預約。
+  steps_title: 新宿御苑 / 東京国立博物館 線上購票步驟
+  steps:
+  - "【新宿御苑・預約日】2027 年 2 月底～3 月初，打開環境省新宿御苑官網（policies.env.go.jp/national-garden/shinjukugyoen/）的お知らせ，找標題含「桜」「事前予約」的公告，確認 3/27（六）是否列為預約日。"
+  - 公告裡會有連到 asoview 的「日時指定入園電子チケット」按鈕。注意不要點成「日時指定団体予約券」（那是 30 人以上團體用）。
+  - 在 asoview 頁面選日期 2027-03-27，再選入園時段（15:50 入園請選含 15:30～16:00 的時段），票種選「一般」，數量 2。
+  - 按購買後會要求登入，沒有帳號就用 Email 註冊 asoview 會員（可用 Google 帳號）。
+  - 付款選信用卡（台灣發卡的 Visa/Master/JCB 通常可用）或 PayPay。完成後收到確認信，asoview 帳號的「チケット」頁面會出現 QR code。
+  - 當天在入園門把手機 QR code 對著閘門讀取器即可入場，不必到售票口。截圖備用，以免現場網路不穩。
+  - "【新宿御苑・非預約日】不用買任何票，直接在入園閘門刷 Suica／PASMO 等交通 IC 卡進場，最快。"
+  - "【東京国立博物館】打開 asoview「東博コレクション展 前売り電子チケット」頁面，選「一般 1,000円」數量 2。這張票不指定日期，購買後 2 個月內有效，所以 2027-01-28 之後再買比較保險。"
+  - 結帳時用信用卡、PayPay 或 Paidy 付款，取得 QR code。當天走正門，先過安檢，再直接到入口出示 QR code，不必排窗口。記得不要帶行李箱。
+  - "【teamLab Planets】只能在官方チケットストア買。選日期與 30 分鐘一格的入場時段、成人人數，信用卡付款；票價隨日期浮動，週末較貴。不可退，但可在入場開始 2 小時前改時段最多 3 次。"
+  tips:
+  - 新宿御苑預約日只管 10:00～16:00 入園，16:00～17:30 入園免預約。如果搶不到票，把入園改到 16:00 也能進，只是只剩 1.5 小時。
+  - 新宿御苑入口會翻手提包找酒，查到要寄放在入口；連罐裝氣泡酒也算。
+  - 預約日當天不賣年間パスポート，窗口也不賣一般門票，沒有電子票就只能等 16:00。
+  - 東京国立博物館 3/27 是週六開到 20:00；若時間允許，把博物館排在週六傍晚，比週日下午人少。
+  - 鎌倉大仏胎内 16:30 就關，比大仏本身早半小時；想進大佛肚子裡，16:20 前要排到胎内入口。
+  - 千鳥ヶ淵划船的價格是以船計算，2 人共用一艘 30 分鐘 ¥1,500。滿開週末現場可能排 2～3 小時，10:00 開門前就去排最實際。
+  - 江の島 3 段エスカー只負責上山，下山要走樓梯；若也想去岩屋，1day（¥1,550）比シーキャンドルセット券（¥1,100）＋岩屋單買 ¥500 便宜 ¥50。
+  sources:
+  - name: みんはるいろ 2026 新宿御苑事前予約（引用官方公告）
+    url: https://minharuiro-blog.com/shinjukugyoen-advance-reservation/
+  - name: みんはるいろ 2025 新宿御苑事前予約（引用官方公告）
+    url: https://minharuiro-blog.com/shinjukugyoen-reservation/
+  - name: 東京メイト 2026 新宿御苑の桜
+    url: https://tripmate.news/ja/posts/shinjuku-gyoen-cherry-blossom-guide/
+  - name: asoview 新宿御苑 前売り電子チケット
+    url: https://www.asoview.com/channel/ticket/UM9VyNbM61/ticket0000043167/
+  - name: asoview 東博コレクション展 前売り電子チケット
+    url: https://www.asoview.com/channel/ticket/jgz3hboMWt/ticket0000027926/
+  - name: teamLab Planets TOKYO 公式
+    url: https://www.teamlab.art/jp/e/planets/
+  - name: 東京メイト 千鳥ヶ淵ボート
+    url: https://tripmate.news/ja/posts/chidorigafuchi-cherry-blossom-boat-guide/
+- id: money
+  label: 金銭
+  title: 信用卡為主、現金備用，網路落地就要通
+  intro: 東京大部分商店、超商、車站都能刷 Visa、JCB、Mastercard，但小餐館、神社、商店街攤位仍常只收現金。日圓不夠時，7-Eleven 的セブン銀行 ATM 與郵局 ATM 都能用台灣發行的卡提款。
+  verdict: 每人帶 ¥20,000～30,000 現金加兩張不同卡組織的信用卡，網路用 eSIM 或電信漫遊，出發前在台灣就設定好。
+  figures:
+  - img: "/assets/img/suica_card.jpg"
+    caption: 交通與超商小額付款交給 IC 卡，大額交給信用卡，現金留給只收現金的小店。
+  rows:
+  - item: 7-Eleven セブン銀行 ATM
+    detail: 全日本 7-Eleven 店內超過 28,000 台，可用 Visa、PLUS、Mastercard、Maestro、Cirrus、銀聯、AMEX、JCB、Discover、Diners 卡提領日圓；成田、羽田機場也有。
+    price: ATM 手續費金額未查到（另有發卡行跨國手續費）
+    how: 插卡 → 選語言「中文」→ 輸入密碼 → 選金額；需事先向台灣銀行開通跨國提款與設定 4 位數密碼。
+    url: https://www.sevenbank.co.jp/intlcard/index2.html
+  - item: ゆうちょ銀行（郵局）ATM
+    detail: 可用 Visa、PLUS、Mastercard、Maestro、Cirrus、JCB、銀聯、Discover 卡。郵局內 ATM 平日 07:00–23:00、週日假日 07:00–21:00。
+    price: 部分卡每次 ¥220（含稅）；單次上限 ¥50,000
+    how: 郵局或部分 FamilyMart 內的小型 ATM 可用。
+    url: https://www.jp-bank.japanpost.jp/en/ias/en_ias_index.html
+  - item: 信用卡與行動支付
+    detail: JNTO：海外信用卡在加盟店可用，日本最普及的是 Visa、JCB、Mastercard。Suica／PASMO 等 IC 卡可用於交通與超商。
+    price: 海外刷卡手續費依發卡行（約 1.5% 上下，估計）
+    how: Apple Pay 加入 Suica 最方便；IC 卡儲值只能用現金。
+    url: https://www.japan.travel/en/plan/cashless-payments-in-japan/
+  - item: eSIM／漫遊／Wi-Fi 機
+    detail: 三種選擇：eSIM（手機需支援、需解鎖）、台灣電信日本漫遊方案、租 Wi-Fi 分享器（兩人可共用但要帶著走）。
+    price: 5 天方案價格未查證，出發前比價
+    how: eSIM 在台灣就先安裝好、落地再開啟數據漫遊；兩人分開行動時各自有網路較安全。
+    url: https://www.japan.travel/en/plan/cashless-payments-in-japan/
+  steps_title: 出發前要做的錢與網路設定
+  steps:
+  - 打給台灣發卡銀行（或用 App）開通「海外提款」功能，確認卡片有 4 位數磁條／晶片密碼。
+  - 準備兩張不同卡組織的信用卡（例如一張 Visa、一張 JCB），一張放錢包一張放行李，避免同時遺失。
+  - 在台灣銀行先換 ¥20,000～30,000 現金，落地當天的 N'EX 與晚餐不用急著找 ATM。
+  - iPhone 打開「錢包」App → 加入「交通卡」→ 選 Suica，用信用卡儲值（Android 需支援 Osaifu-Keitai，否則買實體卡）。
+  - 購買 eSIM 後在台灣先掃 QR 碼安裝，設定為「次要線路」，到日本落地後在「行動數據」切換到 eSIM 並開啟「數據漫遊」。
+  tips:
+  - 7-Eleven ATM 畫面可選中文，提款後記得把卡片拿回，機器會提示聲音。
+  - 郵局 ATM 週日與假日只到 21:00，晚上要領錢找 7-Eleven 比較保險。
+  - 日本刷卡時店員會問「一括（いっかつ）で？」，意思是一次付清，點頭說「はい」即可。
+  sources:
+  - name: Seven Bank ATM（海外發行卡）
+    url: https://www.sevenbank.co.jp/intlcard/index2.html
+  - name: ゆうちょ銀行 International ATM Service
+    url: https://www.jp-bank.japanpost.jp/en/ias/en_ias_index.html
+  - name: JNTO Cashless Payments in Japan
+    url: https://www.japan.travel/en/plan/cashless-payments-in-japan/
+- id: taxfree
+  label: 免税
+  title: 2026 年 11 月起，日本免稅改成先付錢、出境再退
+  intro: 日本的消費稅免稅制度從 2026-11-01 購買分起改為「リファンド方式（退稅制）」，沒有新舊並行期，2027-03 的行程一定適用新制。在店裡要先付含稅價，出境時在機場經海關確認把商品帶出國後，才把消費稅退給你。
+  verdict: 購物時留好收據、商品不要拆來用，回程 17:00 前到成田，託運前先在退稅機刷護照，退款方式在店裡結帳時就要問清楚。
+  figures:
+  - img: "/assets/img/narita.jpg"
+    caption: 成田空港 第2ターミナル。退稅機設在出境大廳、託運行李之前，實際位置以現場「Tax Refund」指標為準。
+  rows:
+  - item: 舊制（～2026-10-31）
+    detail: 在免稅店結帳時直接付稅抜價格。一般物品與消耗品分開計算，消耗品需特殊密封包裝且上限 ¥500,000。
+    price: 下限：同店同日稅抜 ¥5,000 以上
+    how: 出示護照當場免稅。
+    url: https://www.mlit.go.jp/kankocho/tax-free/content/001977883.pdf
+  - item: 新制（2026-11-01 購買分起）
+    detail: 店內先付含稅價（課税）；購買日起 90 天內出境時，在機場退稅機出示護照接受海關確認，之後由免稅店或其委託的退款業者退還消費稅相當額。
+    price: 下限維持：同一店鋪一天稅抜 ¥5,000 以上
+    how: 結帳出示護照，店家會說明退款方式登錄。
+    url: https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00021.html
+  - item: 消耗品規定改變
+    detail: 一般物品／消耗品區分廢止；消耗品特殊包裝廢止；消耗品 ¥500,000 上限廢止。但食品、化妝品若在日本吃掉用掉，該張收據就無法退稅。
+    price: 上限取消，數量以能自己全部帶出境為限
+    how: 要退稅的東西別拆封使用。
+    url: https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00023.html
+  - item: 退款方式
+    detail: 官方舉例：銀行匯款、信用卡退款、App 匯款，或在出境機場內領現金；實際方式依各免稅店而異。
+    price: 退還消費稅相當額（標準稅率 10%，食品等 8%；手續費依店家）
+    how: 結帳時問店員「返金方法は？」（退款方式是？），依指示登錄。
+    url: https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00023.html
+  - item: 需要帶的東西
+    detail: 護照（有上陸許可貼紙）、該次購買的全部商品、收據等購買紀錄。Visit Japan Web 可登錄免稅 QR 碼，結帳時出示（不可用截圖）。
+    price: "—"
+    how: VJW「免稅」功能需先掃護照與上陸許可貼紙。
+    url: https://services.digital.go.jp/zh-cmn-hant/visit-japan-web/guide/
+  steps_title: 新制退稅四步驟
+  steps:
+  - 購物時：在有「Tax-Free」標誌的店，同店同日稅抜滿 ¥5,000，結帳出示護照（或 VJW 免稅 QR 碼），先付含稅價，問清楚並登錄退款方式（信用卡、匯款或機場現金等），收據收好。
+  - 旅途中：要退稅的商品原封不動，不要吃、不要用；同一張收據裡只要少一樣，整張收據都不能退。
+  - 回程 2027-03-31 抵達成田後，在託運行李前，到出發大廳的免稅手續端末（キオスク端末）放護照，畫面顯示綠色＝完成；紅色＝帶商品到旁邊海關檢查處給海關看。
+  - 成田也可用 Visit Japan Web 線上辦理：在國際線出發大廳連上專用無線網路（安檢前區域），在手機上完成，取代退稅機。
+  - 海關確認完成後，店家或退款業者依你登錄的方式退款；退款時間依店家，問題請洽購買店家。
+  tips:
+  - 藥妝零食若想在日本先吃，就和要帶回台灣的分開結帳，避免整張收據作廢。
+  - 退稅機設在託運櫃台之前，行李託運後才想到要退稅就來不及了，航空公司不會把行李拿回來。
+  - 因退稅手續耽誤而沒趕上飛機，官方明言航空公司與海關都不補償。
+  sources:
+  - name: 観光庁 旅行者向け特設ページ（リファンド方式）
+    url: https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00021.html
+  - name: 観光庁 旅行者向けよくある質問（リファンド方式）
+    url: https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00023.html
+  - name: 観光庁 リファンド方式リーフレット（繁體字）
+    url: https://www.mlit.go.jp/kankocho/tax-free/content/001991249.pdf
+  - name: 観光庁 手続の変更点（比較表）
+    url: https://www.mlit.go.jp/kankocho/tax-free/content/001977883.pdf
+  - name: 国税庁 輸出物品販売場制度のリファンド方式への見直し
+    url: https://www.nta.go.jp/publication/pamph/shohi/menzei/201805/format/002.htm
+  - name: 全国免税店協会 リファンド方式解説
+    url: https://zenmenkyo.jp/refund-top/refund-system-2026/
+- id: departure
+  label: 出国
+  title: 回程那天，傍晚五點前就要站在報到櫃台前
+  intro: 回程 2027-03-31（三）約 20:00 起飛。成田官方建議起飛前 2 小時以上到機場；但 2026-11 起免稅改為退稅制，要在託運行李前先到退稅機辦手續，本行程建議提早到 3 小時。行動電源規定 2026-04-24 起又收緊，打包前一定要看。
+  verdict: 17:00 前抵達成田，先辦退稅確認、再報到託運，18:30 前過安檢出境。
+  figures:
+  - img: "/assets/img/narita.jpg"
+    caption: 成田報到櫃台位置：T1 在 4F、T2 在 3F、T3 在 2F。
+  rows:
+  - item: 抵達時間
+    detail: 成田官方：出發 2 小時以上前到達；實際依各航空報到開始時間。
+    price: "—"
+    how: 20:00 起飛 → 建議 17:00 到達（含退稅手續與排隊）。
+    url: https://www.narita-airport.jp/ja/airportguide/inter-dep/
+  - item: 報到櫃台樓層
+    detail: 第1ターミナル 4 階、第2ターミナル 3 階、第3ターミナル 2 階。櫃台位置每天可能變動，以館內看板為準。
+    price: "—"
+    how: 準備護照、電子機票、行李。
+    url: https://www.narita-airport.jp/ja/airportguide/inter-dep/
+  - item: T2 ⇄ T3 移動
+    detail: 免費ターミナル連絡バス：T2→T3 約 6 分、T3→T2 約 3 分；也可走連絡通道，從空港第2ビル駅改札到 T3 2F 出發大廳約 13 分。
+    price: 免費
+    how: 從空港第2ビル駅出改札往 T2 方向，自動門前左側電扶梯上 1F，沿藍色步道直走。
+    url: https://www.narita-airport.jp/ja/access/shuttlebus/
+  - item: 液體限制
+    detail: 國際線手提行李中，超過 100ml 容器的液體一律不可帶上機；100ml 以下容器裝進 1 公升以下夾鏈透明袋可帶。
+    price: "—"
+    how: 化妝水、醬油、酒類放託運行李。
+    url: https://www.narita-airport.jp/ja/airportguide/security/liquid/
+  - item: 行動電源（2026-04-24 新規）
+    detail: 禁止託運；手提最多 2 個且每個 160Wh 以下；機上不可替行動電源充電、也不可用行動電源替其他裝置充電。2025-07-08 起另要求不可放座位上方置物櫃、須放在看得到的地方。
+    price: "—"
+    how: 放隨身包、塞前方座位下；航空公司規定更嚴時以航空公司為準。
+    url: https://www.mlit.go.jp/report/press/kouku10_hh_000310.html
+  steps_title: 成田出境步驟（以 T2 為例）
+  steps:
+  - 16:40 前後 N'EX 抵達空港第2ビル駅，出改札往上到 T2 3F 出發大廳；搭 T3 的捷星則依上表走連絡通道或搭接駁巴士。
+  - 有免稅購物的人先別報到：在託運前的出發大廳找「免税手続」退稅機（キオスク端末），放護照讀取，畫面綠色代表完成，紅色則帶著商品到旁邊海關窗口檢查。
+  - 到航空公司櫃台（看大廳的出發航班看板找櫃台英文字母區），出示護照與電子機票，託運行李，拿登機證與行李收據。
+  - 前往保安検査場（安檢）：液體夾鏈袋、筆電、行動電源拿出來放籃子。
+  - 安檢後是出國審查：走顔認証ゲート（臉部辨識閘門），護照放上讀取、看鏡頭即可；想要出境章需跟職員說。
+  - 出國審查後看登機證上的登機口（Gate）號碼與登機時間，依看板前往；部分登機口距離較遠，請在登機時間前 30 分鐘到達。
+  tips:
+  - 退稅確認一定要在託運前做，行李一旦交給航空公司就不能拿回來，退稅也就作廢。
+  - 長榮在 T1、捷星在 T3，回程搭 N'EX 要在正確的站下車：T1 是「成田空港」終點站，T2/T3 是前一站「空港第2ビル」。
+  - 10000mAh 的行動電源約 37Wh，兩個人各帶 2 個沒問題，但機上不能拿來充手機，起飛前先把手機充飽。
+  sources:
+  - name: 成田国際空港 出発のご案内：国際線
+    url: https://www.narita-airport.jp/ja/airportguide/inter-dep/
+  - name: 成田国際空港 ターミナル間の移動
+    url: https://www.narita-airport.jp/ja/access/shuttlebus/
+  - name: 成田国際空港 アクセス通路を経由した徒歩移動
+    url: https://www.narita-airport.jp/ja/access/shuttlebus/walking-through/
+  - name: 成田国際空港 液体物の持ち込み制限
+    url: https://www.narita-airport.jp/ja/airportguide/security/liquid/
+  - name: 国土交通省 モバイルバッテリーの機内持込みの新たなルール（2026-04-24 適用）
+    url: https://www.mlit.go.jp/report/press/kouku10_hh_000310.html
+  - name: 福岡空港 モバイルバッテリーを収納棚に入れないで（2025-07-08 規定）
+    url: https://www.fukuoka-airport.jp/information/airport-info20250708.html
+unverified:
+- 各航空公司 2027-03-27／03-31 實際航班時刻與票價：本頁價格皆為 2026-10-16 的估計區間，需在官網或比價網實查。
+- 樂桃 Peach 與捷星日本是否於 2027-03 仍執飛 TPE–NRT，以及 ZIPAIR 等其他航空是否有台北線，未逐一確認。
+- 台灣虎航、樂桃、捷星的手提行李重量上限與託運行李加購金額未取得官網確切數字。
+- 松山 TSA ⇄ 羽田 HND 的經營航空公司（一般認知為華航、長榮、日航、全日空）本次未查到官方來源。
+- 各航空在成田的報到開始與截止時間（廉航通常較早截止），需依所訂航空官網確認。
+- 退稅新制：成田機場退稅端末的實際位置、各店家可選的退款方式、退款手續費與入帳時間，觀光廳表示依各免稅店而異，需在購物時詢問。
+- 退稅新制：VJW 線上退稅手續在成田的實際操作畫面與專用 Wi-Fi 名稱尚未查到。
+- セブン銀行 ATM 對海外卡收取的手續費金額與單次提款上限未在官網取得。
+- eSIM、電信漫遊、Wi-Fi 分享器的 5 天方案價格未查證。
+- 入境審查時須按指紋與拍照為一般流程，出入國在留管理庁網站本次連線被拒（403），未能以官方頁面確認最新流程。
+- 台灣端對行動電源的規定（民航局）與各航空公司是否更嚴格，需在出發前一個月再確認。
+- 所有票價為 2026-10-16 官方現行值；JR 東日本 2026-03-14 已改定運賃，2027-03 前若再改定或 N'EX 來回券調價，需出發前 1 個月再查 jreast.co.jp。
+- 成田 T2 的 JR 車站英文已改稱「Narita Airport Terminal 2・3 Station」，Yahoo!乗換案内仍顯示「空港第２ビル」；日文正式站名與現場標示需出發前確認。
+- JR-EAST Train Reservation 會員註冊細節（是否需 Email 驗證碼、按鈕確切英文字樣）以實際畫面為準；官方說明頁截圖為示意。
+- N'EX 來回券回程 3/31 新宿 15:30 前後的實際班次與指定席空位，需在乘車日 1 個月前（約 2027-03-01 起）上網劃位確認。
+- Skyliner e-ticket 線上折扣價：官網價格以圖片呈現，未取得文字數字。
+- 利木津巴士成田→新宿實際所需時間與 2027-03 時刻表未查到（官網時刻表需互動查詢）。
+- 台灣發行的 Visa 信用卡能否在 Apple 錢包為 Suica 加值：僅有網友經驗談（非日本 Visa 有時被拒），官方未說明；建議準備 Mastercard、JCB 或 AMEX 備用，或改用車站售票機現金加值。
+- Android 手機：台灣機型多半不支援 Google 錢包 Suica，未逐一確認型號；Android 使用者以實體卡為準。
+- Welcome Suica 實體卡的初始儲值選項與發售金額，官方頁未列明；一般 Suica 實體卡在哪些售票機可買，官方英文頁未逐站列出。
+- EMot App 內各按鈕的確切英文標示（搜尋、轉讓、群組票）以實際 App 為準。
+- 小田急新宿站售票機「お得なきっぷ」選單的實際按鈕名稱未逐一查證。
+- ヤマト空港宅急便 成田→新宿飯店的實際運費（依尺寸），官網價格需互動查詢未取得；當日配送服務的範例價（160 尺寸 ¥5,780）是羽田當日配，不適用成田。
+- 末班車時間以 2026-10 平日時刻表查得，2027-03 時刻改正（通常在 3 月中旬）後需重查；3/28 為週日，假日時刻表較早收班。
+- Day 3 中目黒→新宿的 ¥252 為東急東横線直通副都心線經新宿三丁目轉丸ノ内線的組合，實際走法可能因直通班次而異。
+- 新宿御苑 2027 年櫻花季預約日尚未公布：2026 年公告在 3/2 發布（fng.or.jp 公告頁被防爬機制擋住，日期與規則轉引自部落格整理），2027 年預計 2 月底～3 月初公布，3/27（六）是否為預約日要到時候確認。
+- 新宿御苑網頁抓取時沒有顯示票價表；¥500 是根據 asoview 官方委託販售頁與多篇 2026 年資料，出發前在官網再確認一次。
+- asoview 的按鈕文字與畫面以 2026 年版本為準，2027 年可能改版；購票步驟中的按鈕名稱僅供參考。
+- 東京都庁展望室「都庁舎点検日」的日期不固定，請在出發前查開室カレンダー PDF（zaimu.metro.tokyo.lg.jp/documents/d/zaimu/tenboukaishitsu-pdf）與 X @tocho_tenbou。
+- 浅草寺おみくじ ¥100：官方沒有公布價格，以現場投幣箱標示為準。
+- 明治神宮 3 月開閉門時間（約 5:40～17:20）與御苑 ¥500 引用自輔助來源，官方網站這次沒抓到對應頁面。
+- 鎌倉大仏、長谷寺、鶴岡八幡宮宝物殿的付款方式（是否只收現金）官網沒有寫，請備日圓現金與硬幣。
+- 千鳥ヶ淵ボート場：「觀櫻期」的確切起訖日、2027 年打燈期間是否只賣 60 分券（2026 年部落格寫打燈期 9:00～19:30 只賣 60 分券，官方頁沒寫）、現場付款方式、2027 年是否續辦スマートチケット，都要在 2027 年 3 月看 visit-chiyoda.tokyo 與 X @chidori_boat。
+- 江の島岩屋 3 月的開放時間這次沒查到官方資料；江の島アートフェスティバル 2027 年開始日期也待公布（若提前到 3 月底，17:00 後進コッキング苑要另付 ¥500）。
+- teamLab Planets 3/27～3/31 實際票價為浮動制，要進購票頁選日期才看得到；營運期官方寫「2027年末」，之後是否延長未定。
+- 東京国立博物館本館閉室範圍可能變動，3/28 前再看一次官網「臨時閉室」公告。

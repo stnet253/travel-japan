@@ -20,6 +20,8 @@
   buffer: "錯過一班再等 15 分，整天行程不受影響"
   lat: 35.3387
   lng: 139.4871
+  img: /assets/img/odakyu_train.jpg
+  img_caption: 小田急 5000 形
 - time: "09:20"
   until: "09:53"
   title: "江ノ電 藤沢 → 長谷"
@@ -30,8 +32,9 @@
   cost: 0
   lat: 35.3123
   lng: 139.5330
-  img: /assets/img/enoden.jpg
-  img_caption: 江ノ電 鎌倉高校前駅
+  gallery:
+    - { img: /assets/img/enoden.jpg, caption: "鎌倉高校前駅" }
+    - { img: /assets/img/enoden_car.jpg, caption: "江ノ電 300 形" }
 - time: "10:00"
   until: "10:45"
   title: "高徳院 鎌倉大仏"
@@ -56,9 +59,10 @@
   hours: "8:00–16:30，閉山 17:00"
   lat: 35.3125
   lng: 139.5334
-  img: /assets/img/hasedera.jpg
-  img_caption: 長谷寺
   url: "https://www.hasedera.jp/guide/"
+  gallery:
+    - { img: /assets/img/hasedera.jpg, caption: "長谷寺" }
+    - { img: /assets/img/yuigahama.jpg, caption: "見晴台看出去的 由比ヶ浜" }
 - time: "12:41"
   until: "12:45"
   title: "江ノ電 長谷 → 鎌倉"
@@ -79,6 +83,8 @@
   lat: 35.3214
   lng: 139.5508
   url: "https://www.wasai-yakura.com/"
+  img: /assets/img/shirasu_don.jpg
+  img_caption: しらす丼（示意）
 - time: "14:00"
   until: "15:10"
   title: "鶴岡八幡宮"
@@ -90,9 +96,12 @@
   hours: "6:00–20:00，境內免費"
   lat: 35.3260
   lng: 139.5563
-  img: /assets/img/hachimangu.jpg
-  img_caption: 鶴岡八幡宮
+  plan_b: "段葛人潮太擠，就從 鎌倉駅 搭 JR 横須賀線 1 站到 北鎌倉（約 3 分，不在周遊券範圍，刷 Suica），看 円覚寺（8:30–16:30，大人 ¥500，engakuji.or.jp 2026-10-16 查詢），再搭 JR 回 鎌倉 接江ノ電。"
   url: "https://www.hachimangu.or.jp/"
+  gallery:
+    - { img: /assets/img/hachimangu.jpg, caption: "鶴岡八幡宮 本宮" }
+    - { img: /assets/img/dankazura.jpg, caption: "段葛 櫻花參道" }
+    - { img: /assets/img/engakuji.jpg, caption: "備案：北鎌倉 円覚寺 唐門" }
 - time: "15:10"
   until: "16:00"
   title: "小町通り 散步買伴手禮"
@@ -119,12 +128,14 @@
   cost: 0
   lat: 35.3010
   lng: 139.4810
+  img: /assets/img/enoshima_bridge.jpg
+  img_caption: 江の島弁天橋
 - time: "17:00"
   until: "18:30"
   title: "江の島 サムエル・コッキング苑・シーキャンドル"
   subtitle: "Enoshima Sea Candle · 日落約 18:00"
   what: "買エスカー＋苑＋燈塔的套票，三段手扶梯省掉 200 階樓梯。17:30 上到燈塔頂，等太陽從富士山旁邊落下，再看相模灣的燈一盞盞亮起。"
-  tips: "3 月底沒有常設的夜間點燈活動，17:00 前進苑免費、燈塔另付 ¥800；套票 ¥1,100 含手扶梯仍比較划算。"
+  tips: "3 月底沒有常設的夜間點燈活動，17:00 前進苑免費、燈塔另付 ¥800；「シーキャンドルセット券」¥1,100 含エスカー（手扶梯）與燈塔；想再看岩屋洞窟就買「江の島1day」¥1,550。"
   transport: "江の島入口 步行上坡 10 分，或搭エスカー"
   cost: 1100
   hours: "苑 9:00–20:00（最終入場 19:30）；燈塔 9:00–20:00；エスカー 8:50–19:05"
@@ -149,6 +160,8 @@
   cost: 0
   lat: 35.3085
   lng: 139.4818
+  img: /assets/img/katase_enoshima_station.jpg
+  img_caption: 片瀬江ノ島駅 龍宮造型站體
 - time: "20:01"
   until: "21:08"
   title: "小田急 片瀬江ノ島 → 新宿"

@@ -10,9 +10,9 @@
   buffer: "入境排隊高峰可到 60 分，寬裕抓到 10:30"
   lat: 35.7720
   lng: 140.3929
+  url: "https://www.jreast.co.jp/multi/nex/tickets/"
   img: /assets/img/narita.jpg
   img_caption: 成田空港 第2ターミナル
-  url: "https://www.jreast.co.jp/multi/nex/tickets/"
 - time: "10:45"
   until: "12:10"
   title: "成田エクスプレス → 新宿"
@@ -22,8 +22,9 @@
   cost: 0
   lat: 35.6896
   lng: 139.7006
-  img: /assets/img/skyliner.jpg
-  img_caption: 圖為京成スカイライナー，走日暮里轉山手線是另一條 1 小時 24 分的選擇（IC ¥2,820）
+  gallery:
+    - { img: /assets/img/nex_train.jpg, caption: "成田エクスプレス E259 系" }
+    - { img: /assets/img/narita_t2_station.jpg, caption: "空港第2ビル駅 JR 月台入口" }
 - time: "12:20"
   until: "12:50"
   title: "飯店寄放行李"
@@ -33,6 +34,8 @@
   cost: 0
   lat: 35.6917
   lng: 139.6975
+  img: /assets/img/shinjuku_west.jpg
+  img_caption: 新宿駅 西口 地下通道入口
 - time: "13:00"
   until: "14:00"
   title: "午餐：新宿西口 拉麵"
@@ -42,6 +45,8 @@
   lat: 35.6908
   lng: 139.6990
   url: "https://tabelog.com/ramen/tokyo/A1304/A130401/rank/"
+  img: /assets/img/ramen.jpg
+  img_caption: 東京醬油拉麵（示意）
 - time: "14:00"
   until: "15:30"
   title: "新宿東口散步・電器採買"
@@ -53,12 +58,12 @@
   lng: 139.7036
   img: /assets/img/shinjuku_sta.jpg
   img_caption: 新宿駅 東口
-- time: "15:50"
+- time: "16:00"
   until: "17:30"
   title: "新宿御苑"
   subtitle: "Shinjuku Gyoen · 新宿門"
   what: "從新宿三丁目走到新宿門約 8 分。苑內約 1,000 株櫻花，染井吉野在 3 月底進入滿開；從新宿門往右走到英式庭園草坪，背景是 NTT 大樓與櫻花。"
-  tips: "16:00 之後入園不需要事前預約（2026 年規則），而且下午斜光拍櫻花最好看。苑內禁酒，野餐可以。"
+  tips: "2025、2026 年櫻花季週末 10:00–16:00 入園需在 asoview 買日時指定票，2027-03-27（六）很可能也是預約日；16:00 之後入園免預約，所以刻意排 16:00 進門。下午斜光拍櫻花最好看。苑內禁酒、禁帶遊具。"
   transport: "新宿駅 東南口 步行 10 分，或 丸ノ内線 新宿御苑前駅 1 分"
   cost: 500
   hours: "9:00–18:00，最終入園 17:30。櫻花期週一照常開園"
@@ -88,9 +93,9 @@
   hours: "9:30–22:00，入室截止 21:30。每月第 1・3 週二休，3/30 不受影響"
   lat: 35.6896
   lng: 139.6921
+  url: "https://www.yokoso.metro.tokyo.lg.jp/tenbou/"
   img: /assets/img/tocho.jpg
   img_caption: 都庁展望室眺望新宿
-  url: "https://www.yokoso.metro.tokyo.lg.jp/tenbou/"
 - time: "19:45"
   until: "21:15"
   title: "晚餐：思い出横丁 烤雞串"
@@ -102,9 +107,10 @@
   plan_b: "人太多就改去西口的 新宿西口 やきとり 橫丁後方的小巷，或直接進 ルミネエスト 樓上食堂街。"
   lat: 35.6933
   lng: 139.6995
-  img: /assets/img/omoide.jpg
-  img_caption: 思い出横丁 夜
   url: "https://shinjuku.10rien.com/"
+  gallery:
+    - { img: /assets/img/omoide.jpg, caption: "思い出横丁 夜" }
+    - { img: /assets/img/yakitori.jpg, caption: "焼き鳥（示意）" }
 - time: "21:30"
   title: "回飯店"
   what: "明天 7:50 出門，今天早點睡把時差調過來。"
