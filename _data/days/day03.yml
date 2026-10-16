@@ -1,0 +1,160 @@
+# Day 3 ・ 2027-03-29（一）鎌倉・江の島一日遊。全程用 小田急 江の島・鎌倉フリーパス ¥1,640
+- time: "07:30"
+  until: "07:50"
+  title: "新宿駅 西口 買周遊券"
+  subtitle: "小田急 券売機／EMot App"
+  what: "小田急線新宿駅西口的券売機可以直接買當日的「江の島・鎌倉フリーパス」，或前一晚在 EMot App 買好。順便買早餐帶上車。"
+  transport: "飯店步行約 10 分"
+  cost: 1640
+  lat: 35.6906
+  lng: 139.6995
+  url: "https://www.odakyu-freepass.jp/enokama/buy.html"
+- time: "07:51"
+  until: "08:48"
+  title: "小田急 快速急行 → 藤沢"
+  subtitle: "Odakyu Rapid Express · 約 56 分"
+  what: "搭往藤沢方向的快速急行（不要搭到小田原行的分割車廂，上車前看車身電子看板）。約每 10–20 分一班，56 分直達。"
+  tips: "特急ロマンスカー 要加 ¥750 特急券且不含在周遊券內，快速急行就夠快。"
+  transport: "小田急小田原線→江ノ島線 快速急行 · 周遊券含"
+  cost: 0
+  buffer: "錯過一班再等 15 分，整天行程不受影響"
+  lat: 35.3387
+  lng: 139.4871
+- time: "09:20"
+  until: "09:53"
+  title: "江ノ電 藤沢 → 長谷"
+  subtitle: "Enoden · 33 分 · 沿海"
+  what: "從藤沢駅的江ノ電月台搭往鎌倉方向。過了江ノ島站之後車窗左邊是海，鎌倉高校前站就是那個平交道。先坐到長谷，從西邊往東玩。"
+  tips: "想在鎌倉高校前下車拍平交道，就把 33 分變成 50 分；週一早上的人比週末少一半。"
+  transport: "江ノ島電鉄 鎌倉行 · 周遊券含"
+  cost: 0
+  lat: 35.3123
+  lng: 139.5330
+  img: /assets/img/enoden.jpg
+  img_caption: 江ノ電 鎌倉高校前駅
+- time: "10:00"
+  until: "10:45"
+  title: "高徳院 鎌倉大仏"
+  subtitle: "Kōtoku-in · 11.3 公尺青銅佛"
+  what: "從長谷站走 7 分。1252 年鑄造，原本有大殿，1498 年被海嘯沖走後就一直坐在露天。加 ¥50 可以進到佛像裡面看鑄接痕。"
+  transport: "長谷駅 步行 7 分（600 m）"
+  cost: 350
+  hours: "10～3 月 8:00–17:00，入場至閉門前 15 分；胎内 8:00–16:30"
+  lat: 35.3167
+  lng: 139.5358
+  img: /assets/img/daibutsu.jpg
+  img_caption: 鎌倉大仏
+  url: "https://www.kotoku-in.jp/"
+- time: "10:50"
+  until: "12:15"
+  title: "長谷寺"
+  subtitle: "Hase-dera · 觀音與海景"
+  what: "往回走 5 分。本堂裡 9 公尺高的十一面觀音是日本最大木造觀音之一；上到見晴台可以看到由比ヶ浜整片海灣。3 月底境內櫻花與木蓮同時開。"
+  tips: "經藏裡的輪藏轉一圈等於讀完一遍大藏經，每月 18 日才開放轉；平常可以看。"
+  transport: "高徳院 步行 5 分"
+  cost: 400
+  hours: "8:00–16:30，閉山 17:00"
+  lat: 35.3125
+  lng: 139.5334
+  img: /assets/img/hasedera.jpg
+  img_caption: 長谷寺
+  url: "https://www.hasedera.jp/guide/"
+- time: "12:41"
+  until: "12:45"
+  title: "江ノ電 長谷 → 鎌倉"
+  what: "3 站 4 分。"
+  transport: "江ノ島電鉄 · 周遊券含"
+  cost: 0
+  lat: 35.3192
+  lng: 139.5467
+- time: "12:50"
+  until: "13:50"
+  title: "午餐：小町通り 吻仔魚丼"
+  subtitle: "和彩八倉 · 小町通り元祖しらす丼"
+  what: "小町通り裡自稱元祖的吻仔魚丼店，生吻仔魚與釜揚げ各半的二色丼最有代表性。生吻仔魚 1～3 月中是禁漁期，3 月底剛解禁，運氣好就吃得到。"
+  tips: "禁漁期剛結束的第一週，店門口會寫「生しらす あります」，看到就進去。"
+  transport: "鎌倉駅 東口 步行 5 分"
+  cost: 2200
+  plan_b: "滿座就往回走到鎌倉駅西口的 御成通り，人少一半。"
+  lat: 35.3214
+  lng: 139.5508
+  url: "https://www.wasai-yakura.com/"
+- time: "14:00"
+  until: "15:10"
+  title: "鶴岡八幡宮"
+  subtitle: "Tsurugaoka Hachimangū · 段葛的櫻花隧道"
+  what: "從鎌倉駅東口走「段葛」參道進去，兩側是 2016 年重新種的櫻花，3 月底正好滿開。石階 61 級上到本宮，回頭看整條若宮大路到海。"
+  tips: "本宮左側的大銀杏在 2010 年倒了，現在旁邊長出來的小樹是它的分株。"
+  transport: "小町通り 步行 8 分"
+  cost: 0
+  hours: "6:00–20:00，境內免費"
+  lat: 35.3260
+  lng: 139.5563
+  img: /assets/img/hachimangu.jpg
+  img_caption: 鶴岡八幡宮
+  url: "https://www.hachimangu.or.jp/"
+- time: "15:10"
+  until: "16:00"
+  title: "小町通り 散步買伴手禮"
+  subtitle: "Komachi-dōri"
+  what: "回程走小町通り，鎌倉紅谷的クルミッ子（核桃焦糖餅）是最常被帶回台灣的，本店在八幡宮前。"
+  cost: 1500
+  lat: 35.3214
+  lng: 139.5508
+  img: /assets/img/komachi.jpg
+  img_caption: 小町通り
+- time: "16:06"
+  until: "16:34"
+  title: "江ノ電 鎌倉 → 江ノ島"
+  what: "28 分，這次坐右邊看海。"
+  transport: "江ノ島電鉄 藤沢行 · 周遊券含"
+  cost: 0
+  lat: 35.3072
+  lng: 139.4878
+- time: "16:40"
+  until: "17:00"
+  title: "走過弁天橋上江の島"
+  what: "從江ノ島站走到島上的入口約 15 分，過橋時富士山在右手邊（天氣好的話）。"
+  transport: "步行 15 分（1.2 km）"
+  cost: 0
+  lat: 35.3010
+  lng: 139.4810
+- time: "17:00"
+  until: "18:30"
+  title: "江の島 サムエル・コッキング苑・シーキャンドル"
+  subtitle: "Enoshima Sea Candle · 日落約 18:00"
+  what: "買エスカー＋苑＋燈塔的套票，三段手扶梯省掉 200 階樓梯。17:30 上到燈塔頂，等太陽從富士山旁邊落下，再看相模灣的燈一盞盞亮起。"
+  tips: "3 月底沒有常設的夜間點燈活動，17:00 前進苑免費、燈塔另付 ¥800；套票 ¥1,100 含手扶梯仍比較划算。"
+  transport: "江の島入口 步行上坡 10 分，或搭エスカー"
+  cost: 1100
+  hours: "苑 9:00–20:00（最終入場 19:30）；燈塔 9:00–20:00；エスカー 8:50–19:05"
+  plan_b: "強風或雨天燈塔可能關閉，就在島上的 岩本楼 周邊吃晚餐看海。"
+  lat: 35.2995
+  lng: 139.4790
+  img: /assets/img/enoshima.jpg
+  img_caption: 江の島 シーキャンドル
+  url: "https://enoshima-seacandle.com/opening-hours/"
+- time: "18:30"
+  until: "19:30"
+  title: "晚餐：江の島 海鮮"
+  what: "下山走參道，兩側都是賣吻仔魚與蠑螺的店。選一家還有位子的，點生吻仔魚與釜揚げ再吃一次做比較。"
+  cost: 2500
+  lat: 35.3003
+  lng: 139.4800
+- time: "19:45"
+  until: "19:50"
+  title: "走到 片瀬江ノ島駅"
+  what: "過弁天橋回到陸地，龍宮造型的車站就是小田急的 片瀬江ノ島駅。"
+  transport: "步行 12 分"
+  cost: 0
+  lat: 35.3085
+  lng: 139.4818
+- time: "20:01"
+  until: "21:08"
+  title: "小田急 片瀬江ノ島 → 新宿"
+  what: "先搭各停到藤沢（6 分），同月台換快速急行新宿行（56 分），全程 1 小時 7 分。"
+  transport: "小田急江ノ島線 → 快速急行 · 周遊券含 · 原價 ¥649"
+  cost: 0
+  buffer: "末班快速急行約 22:30，不用趕"
+  lat: 35.6896
+  lng: 139.7006

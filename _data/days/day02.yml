@@ -1,0 +1,133 @@
+# Day 2 ・ 2027-03-28（日）浅草 → 上野 → 谷中 → 秋葉原
+- time: "08:00"
+  until: "08:28"
+  title: "新宿 → 浅草"
+  subtitle: "JR 中央線快速 → 東京メトロ 銀座線"
+  what: "新宿 7 號月台搭中央線快速到神田（11 分），轉銀座線往浅草方向（11 分）。"
+  transport: "JR 中央線快速 東京行 ¥209 ＋ 銀座線 浅草行 ¥178，共 28 分、轉乘 1 次"
+  cost: 387
+  lat: 35.7119
+  lng: 139.7967
+- time: "08:30"
+  until: "10:30"
+  title: "浅草寺"
+  subtitle: "Sensō-ji · 雷門 → 仲見世 → 本堂"
+  what: "從雷門進去，穿過 250 公尺的仲見世到寶藏門與本堂，再繞到五重塔。本堂 6:30 開門，8:30 到人還不算多，10 點後仲見世會擠到走不動。"
+  tips: "雷門大燈籠底下有一條木雕龍，大多數人沒抬頭看。求籤 ¥100，抽到凶就綁在旁邊架子上。"
+  transport: "浅草駅 1 號出口 步行 2 分"
+  cost: 100
+  hours: "本堂 10～3 月 6:30–17:00，境內全年開放"
+  lat: 35.7148
+  lng: 139.7967
+  img: /assets/img/sensoji.jpg
+  img_caption: 浅草寺 雷門
+  url: "https://www.senso-ji.jp/guide/"
+- time: "10:30"
+  until: "11:00"
+  title: "仲見世通り 吃點心"
+  what: "人形焼、揚げまんじゅう、きびだんご 都是一口一個，邊走邊吃在仲見世是不行的，買了站在店旁吃完。"
+  cost: 600
+  lat: 35.7126
+  lng: 139.7963
+  img: /assets/img/nakamise.jpg
+  img_caption: 仲見世通り
+- time: "11:00"
+  until: "12:10"
+  title: "早午餐：雷門 三定 天婦羅"
+  subtitle: "Sansada · 1837 年創業"
+  what: "就在雷門旁邊，日本最古老的天婦羅店。胡麻油炸的江戶前天婦羅與かき揚げ天丼，開店時人最少。"
+  tips: "一樓是快速的食堂桌，二樓榻榻米要等。想吃甜辣濃厚的天丼就改去對面巷子的 大黒家（1887 年）。"
+  transport: "雷門旁 步行 1 分"
+  cost: 2500
+  hours: "開店時間以官網為準"
+  lat: 35.7108
+  lng: 139.7960
+  url: "https://tempura-sansada.co.jp/"
+- time: "12:15"
+  until: "12:25"
+  title: "浅草 → 上野"
+  what: "銀座線往渋谷方向，3 站 5 分。"
+  transport: "東京メトロ 銀座線 ¥178"
+  cost: 178
+  lat: 35.7141
+  lng: 139.7774
+- time: "12:30"
+  until: "13:30"
+  title: "上野恩賜公園 賞櫻"
+  subtitle: "Ueno Park · 桜通り"
+  what: "從公園口出站往上走就是櫻花大道，約 800 株，週日中午花見的藍布墊會鋪滿整片。往不忍池方向走，水邊的枝垂櫻比較少人。"
+  tips: "上野是東京最早的賞櫻名所之一，1873 年開園。週日人最多，但這就是上野該有的樣子。"
+  transport: "上野駅 公園口 步行 1 分"
+  cost: 0
+  plan_b: "下雨就直接進博物館，把賞櫻時間挪到谷中靈園（人少又有屋簷可躲）。"
+  lat: 35.7146
+  lng: 139.7733
+  img: /assets/img/ueno_sakura.jpg
+  img_caption: 上野公園 桜
+- time: "13:30"
+  until: "15:30"
+  title: "東京国立博物館"
+  subtitle: "Tokyo National Museum · 本館"
+  what: "日本最老的博物館，本館 2 樓「日本美術の流れ」從繩文走到江戶，2 小時剛好。3 月底本館前的櫻花也會開，庭園在春季限定開放。"
+  tips: "正門有行李檢查，背包以外的行李箱不能進。先在 asoview 買好線上票，旺季窗口排 30 分很常見。"
+  transport: "上野公園內 步行 8 分"
+  cost: 1000
+  hours: "9:30–17:00（週五六至 20:00），週一休；2027/3/29 週一官網明列開館"
+  lat: 35.7188
+  lng: 139.7765
+  img: /assets/img/tnm.jpg
+  img_caption: 東京国立博物館 本館
+  url: "https://www.tnm.jp/"
+- time: "15:30"
+  until: "16:10"
+  title: "穿過谷中靈園走到谷中"
+  what: "從博物館西側走言問通り，經過谷中靈園的櫻花道（約 100 株，幾乎沒有觀光客），到日暮里站再下坡就是谷中銀座。"
+  transport: "步行 30 分（2 km），緩下坡"
+  cost: 0
+  lat: 35.7256
+  lng: 139.7700
+- time: "16:10"
+  until: "17:30"
+  title: "谷中銀座・夕やけだんだん"
+  subtitle: "Yanaka Ginza"
+  what: "170 公尺的下町商店街，貓的雕像藏在屋簷上。買一個 メンチカツ 站著吃，再往上走到「夕やけだんだん」階梯等日落（約 18:00）。"
+  tips: "谷中沒有連鎖店是刻意的。想買伴手禮，這裡的煎餅與和紙比浅草便宜。"
+  cost: 800
+  lat: 35.7276
+  lng: 139.7664
+  img: /assets/img/yanaka.jpg
+  img_caption: 谷中銀座
+- time: "17:32"
+  until: "17:40"
+  title: "日暮里 → 秋葉原"
+  what: "JR 京浜東北線 9 號月台往大船方向，4 站 8 分。"
+  transport: "JR 京浜東北線 ¥199"
+  cost: 199
+  lat: 35.6984
+  lng: 139.7731
+- time: "17:45"
+  until: "19:30"
+  title: "秋葉原 電気街"
+  subtitle: "Akihabara"
+  what: "從電気街口出來就是中央通り。ヨドバシ Akiba 在對面另一側（昭和通り口），動漫周邊集中在 ラジオ会館、animate、まんだらけ。"
+  tips: "想買的電器拿 Day 1 看好的型號比價，免稅櫃台在各店高樓層，護照要帶。"
+  cost: 0
+  lat: 35.6984
+  lng: 139.7714
+  img: /assets/img/akihabara.jpg
+  img_caption: 秋葉原 電気街 夜
+- time: "19:30"
+  until: "20:45"
+  title: "晚餐：秋葉原"
+  what: "秋葉原的咖哩、牛丼與拉麵都便宜又快，或者回新宿吃。"
+  cost: 1500
+  lat: 35.6990
+  lng: 139.7720
+- time: "21:00"
+  until: "21:15"
+  title: "秋葉原 → 新宿"
+  what: "總武線 5 號月台到御茶ノ水，同月台對面換中央線快速，15 分到新宿。"
+  transport: "JR 総武線 → 中央線快速 ¥209，轉乘 1 次"
+  cost: 209
+  lat: 35.6896
+  lng: 139.7006

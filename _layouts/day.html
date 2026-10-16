@@ -6,7 +6,7 @@ layout: default
 <article class="day">
   <header class="day-hero {% if page.cover == nil or page.cover == "" %}hero--plain{% endif %}" {% if page.cover and page.cover != "" %}style="--hero: url('{{ page.cover | relative_url }}')"{% endif %}>
     <div class="wrap day-hero-inner">
-      <p class="kicker">Day {{ idx | prepend: "0" | slice: -2, 2 }} <span class="dot">·</span> {{ page.date | date: "%Y.%m.%d" }} <span class="dot">·</span> {{ page.city }}</p>
+      <p class="kicker">Day {{ idx | prepend: "0" | slice: -2, 2 }} <span class="dot">·</span> {{ page.date | date: "%Y.%m.%d" }}（{{ page.date | date: "%a" | replace: "Sat","六" | replace: "Sun","日" | replace: "Mon","一" | replace: "Tue","二" | replace: "Wed","三" | replace: "Thu","四" | replace: "Fri","五" }}）<span class="dot">·</span> {{ page.city }}</p>
       <h1 class="display">{{ page.title }}</h1>
       {% if page.lede and page.lede != "" %}<p class="hero-lede">{{ page.lede }}</p>{% endif %}
     </div>

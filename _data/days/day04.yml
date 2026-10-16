@@ -1,0 +1,99 @@
+# Day 4 ・ 2027-03-30（二）明治神宮 → 原宿・表参道 → 渋谷 → 中目黒 夜櫻
+- time: "08:31"
+  until: "08:35"
+  title: "新宿 → 原宿"
+  what: "山手線 14 號月台往渋谷方向，2 站 4 分。"
+  transport: "JR 山手線 内回り ¥155"
+  cost: 155
+  lat: 35.6702
+  lng: 139.7027
+- time: "08:40"
+  until: "10:15"
+  title: "明治神宮"
+  subtitle: "Meiji Jingū · 70 公頃的人造森林"
+  what: "從原宿駅旁的南参道大鳥居進去，砂石路兩側的樹是 1920 年從全日本捐來的 10 萬株，當時刻意設計成 100 年後變成天然林。走到本殿約 10 分，但沒人會用 10 分走完。"
+  tips: "參道上的酒樽牆，一面是日本清酒、對面是法國勃艮第葡萄酒，大多數人只拍了清酒那面。御朱印在長殿，9:00 開始。"
+  transport: "原宿駅 西口 步行 1 分到鳥居"
+  cost: 0
+  hours: "3 月 5:40–17:20，4 月 5:10–17:50；境內免費"
+  lat: 35.6764
+  lng: 139.6993
+  img: /assets/img/meiji.jpg
+  img_caption: 明治神宮 南参道鳥居
+  url: "https://www.meijijingu.or.jp/sanpai/2.php"
+- time: "10:20"
+  until: "11:30"
+  title: "竹下通り → 表参道"
+  subtitle: "Takeshita · Omotesandō"
+  what: "竹下通り 350 公尺，可麗餅與扭蛋店 10:30 開始營業。走到底右轉是明治通り，再接表参道的櫸木大道，兩邊是 建築師蓋的精品店。"
+  tips: "表参道 Hills 的坡道內部是安藤忠雄設計的，繞一圈不用買東西。"
+  cost: 800
+  lat: 35.6716
+  lng: 139.7030
+  img: /assets/img/takeshita.jpg
+  img_caption: 竹下通り
+- time: "11:30"
+  until: "12:45"
+  title: "午餐：表参道・キャットストリート"
+  what: "從表参道往渋谷方向的キャットストリート（舊澀谷川暗渠）上有很多小店與咖啡，中午人不多。"
+  cost: 1800
+  lat: 35.6670
+  lng: 139.7050
+- time: "12:45"
+  until: "13:15"
+  title: "沿 キャットストリート 走到渋谷"
+  what: "1.2 公里的步行街，沒有車。走到底就是宮下公園與渋谷駅。"
+  transport: "步行 20 分（1.2 km）"
+  cost: 0
+  lat: 35.6595
+  lng: 139.7010
+- time: "13:15"
+  until: "16:15"
+  title: "渋谷：スクランブル交差点・PARCO"
+  subtitle: "Shibuya"
+  what: "先到交差点旁的 渋谷 ツタヤ 或 MAGNET 樓上看一次人潮穿越。渋谷 PARCO 6 樓是 Nintendo TOKYO、Pokémon Center Shibuya 與 CAPCOM 專賣店，動漫周邊在同一層解決。"
+  tips: "想上 SHIBUYA SKY 看夕陽要提前兩週線上預約且常售罄；本行程把夕陽留給昨天的江の島，今天把時間留給夜櫻。"
+  cost: 0
+  hours: "PARCO 各店營業時間以官網為準"
+  lat: 35.6595
+  lng: 139.7005
+  img: /assets/img/shibuya.jpg
+  img_caption: 渋谷スクランブル交差点
+- time: "16:30"
+  until: "16:33"
+  title: "渋谷 → 中目黒"
+  what: "東急東横線 3 號月台，1 站 3 分。"
+  transport: "東急東横線 ¥140"
+  cost: 140
+  lat: 35.6440
+  lng: 139.6990
+- time: "16:40"
+  until: "18:30"
+  title: "目黒川 桜並木"
+  subtitle: "Meguro River · 3.8 公里 800 株"
+  what: "出站往左走到目黒川，沿河往南走。河道窄、兩岸的櫻花往中間長，形成隧道；傍晚開始點燈，攤販賣香檳與草莓。往池尻大橋方向人少。"
+  tips: "最好拍的位置是每一座橋的正中間往下游拍。日落 18:00 前後，天還有一點藍的時候櫻花與燈籠最好看。"
+  cost: 1000
+  hours: "點燈時間依每年「中目黒桜まつり」公告，通常至 20:00 前後"
+  plan_b: "下雨改去 teamLab Planets（需提前買日時指定票）或 代官山 蔦屋書店。"
+  lat: 35.6420
+  lng: 139.6960
+  img: /assets/img/nakameguro.jpg
+  img_caption: 目黒川 夜櫻
+- time: "18:30"
+  until: "21:00"
+  title: "晚餐：中目黒 居酒屋"
+  what: "中目黒的居酒屋與小餐酒館集中在車站周邊與山手通り兩側，櫻花季週間晚上也會滿，先在食べログ或 Retty 預約 19:00 的位子。"
+  tips: "能看到河的餐廳在櫻花季多半有最低消費或加價，想省錢就在河邊買一杯香檳，再走到一條街外吃。"
+  cost: 4500
+  lat: 35.6440
+  lng: 139.6990
+  url: "https://tabelog.com/izakaya/tokyo/A1317/A131701/rank/"
+- time: "21:33"
+  until: "21:53"
+  title: "中目黒 → 新宿"
+  what: "東横線直通副都心線到新宿三丁目（10 分），換都営新宿線 1 站到新宿，或直接走 10 分。"
+  transport: "東急東横線直通 副都心線 → 都営新宿線 ¥317，共 20 分"
+  cost: 317
+  lat: 35.6896
+  lng: 139.7006

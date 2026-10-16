@@ -1,18 +1,70 @@
 # 旅程總覽，首頁與導覽列讀這裡
-title: 東京，慢慢走
-subtitle: Tokyo · Winter 2026
-lede: 不趕景點的七天。早上在神社前排隊買熱咖啡，下午搭山手線繞一圈，晚上找一家只有八個位子的居酒屋。
-hero: ""            # 首頁封面圖路徑，如 /assets/img/cover.jpg；留空則用色塊
-hero_caption: ""    # 封面圖說明與出處
-start: 2026-01-01
-end: 2026-01-07
+title: 東京，櫻花剛好開
+subtitle: Tokyo · Sakura · 2027.03.27 — 03.31
+lede: 五天四夜，住新宿。在新宿御苑看第一眼櫻花，到浅草吃一百八十年的天婦羅，搭江ノ電沿著海去鎌倉，最後一天在千鳥ヶ淵划船，然後直接去機場。
+hero: /assets/img/chidorigafuchi.jpg
+hero_caption: 千鳥ヶ淵の桜 ・ 照片出處見頁尾
+start: 2027-03-27
+end: 2027-03-31
 travelers: 2
+flight:
+  arrive: "3/27（六）上午抵達 成田空港（NRT），依實際班機調整第一天 10:45 前的時間"
+  depart: "3/31（三）晚間 20:00 前後自成田起飛，17:30 前抵達機場"
 currency_rate: { jpy_to_twd: 0.21, as_of: 2026-10-16 }
 cities:
-  - { name: 東京, lat: 35.6812, lng: 139.7671 }
+  - { name: 東京・新宿, lat: 35.6896, lng: 139.7006 }
+  - { name: 浅草・上野, lat: 35.7148, lng: 139.7967 }
+  - { name: 鎌倉・江の島, lat: 35.3192, lng: 139.5467 }
+  - { name: 渋谷・中目黒, lat: 35.6440, lng: 139.6990 }
+  - { name: 築地・千鳥ヶ淵, lat: 35.6654, lng: 139.7707 }
 hotels:
-  - { name: 範例飯店（請替換）, city: 東京, lat: 35.6895, lng: 139.6917, checkin: 2026-01-01, checkout: 2026-01-07, note: 新宿站西口步行 6 分，有行李寄放 }
+  - { name: 新宿西口 飯店（待訂）, city: 新宿, lat: 35.6917, lng: 139.6975, checkin: 2027-03-27, checkout: 2027-03-31, note: 建議選 新宿駅 西口／南口 步行 10 分內，N'EX 與小田急都在同一站 }
+
+# 季節：氣象廳東京標本木（靖国神社）平均開花 3/24、滿開 3/31；2026 年實際開花 3/19、滿開 3/28。
+sakura:
+  avg_bloom: "3/24"
+  avg_full: "3/31"
+  last_year: "2026 年：開花 3/19、滿開 3/28"
+  note: 行程 3/27–3/31 落在平均滿開前後，最佳；若當年提早一週，目黒川與千鳥ヶ淵會進入吹雪期，同樣好看。
+  source: japan-seasons-mcp（氣象廳／JMC 資料），2026-10-16 查詢
+
+# 天氣：Open-Meteo 再分析資料，東京 3/25–3/31 兩年實測（2026-10-16 查詢）
+weather:
+  summary: 白天 13–20°C、清晨與夜間 5–11°C；兩年中有一半的日子出現毛毛雨或小雨，晴天與陰雨交替，日夜溫差可達 10°C。
+  table:
+    - { date: "3/27", y2025: "11–21°C 陰", y2026: "9–16°C 小雨轉晴" }
+    - { date: "3/28", y2025: "15–23°C 陰雨", y2026: "9–17°C 晴" }
+    - { date: "3/29", y2025: "6–14°C 毛毛雨", y2026: "11–19°C 晴" }
+    - { date: "3/30", y2025: "5–13°C 陰", y2026: "12–18°C 陰" }
+    - { date: "3/31", y2025: "4–8°C 陰雨", y2026: "16–19°C 小雨" }
+  clothing:
+    - 洋蔥式三層：發熱衣或薄長袖 ＋ 針織衫或刷毛 ＋ 防風薄外套（風衣或輕羽絨）
+    - 一條圍巾，晚上江の島與都廳展望台外風大，5°C 體感很冷
+    - 摺疊傘必帶，兩年內行程日有一半下雨；鞋子選好走且不怕濕的
+    - 每天步行 8–12 公里，鎌倉當天最多，襪子多帶一雙
+    - 花粉季：鼻子敏感的人帶口罩與抗過敏藥
+    - 日落約 18:00，夜櫻拍照手機夠用，但帶行動電源
+
+tickets:
+  - { name: "N'EX TOKYO Round Trip Ticket", price: "¥5,200／人", note: "成田 ⇄ 新宿 來回，限外國護照，14 日內有效；單程票價 ¥3,330，買來回券省 ¥1,460。可在 JR-EAST Train Reservation 線上先買，到成田 JR 東日本旅行服務中心領取。", url: "https://www.jreast.co.jp/multi/nex/tickets/" }
+  - { name: "小田急 江の島・鎌倉フリーパス", price: "¥1,640／人", note: "新宿出發。小田急 新宿⇄藤沢 來回 ＋ 藤沢⇄片瀬江ノ島 ＋ 江ノ電全線自由上下車。可用 EMot App 或新宿西口券売機當日購買。", url: "https://www.odakyu-freepass.jp/enokama/buy.html" }
+  - { name: "Suica（交通 IC）", price: "¥3,000 儲值起", note: "iPhone 可直接在 Wallet 加入 Suica 免實體卡；都內地鐵、便利商店、新宿御苑閘門都能刷。", url: "https://www.jreast.co.jp/multi/suica/" }
+  - { name: "東京国立博物館 線上票", price: "¥1,000／人", note: "旺季窗口排隊可逾 30 分，先在 asoview 買好；禁帶行李箱入館。", url: "https://www.tnm.jp/modules/r_free_page/index.php?id=113" }
+  - { name: "新宿御苑 日時指定票（視公告）", price: "¥500／人", note: "2026 年櫻花季週六日 10:00–16:00 入園需預約；本行程選 16:00 後入園可免預約。2027 年規則約 2 月公布，出發前再確認。", url: "https://fng.or.jp/shinjuku/" }
+  - { name: "teamLab Planets TOKYO（選配）", price: "¥3,800 起／人", note: "營運至 2027 年底，需日時指定票且不可退款。若想加入，建議放在 Day 4 傍晚取代中目黒。", url: "https://teamlabplanets.dmm.com/" }
+
+budget:
+  note: 每人估算，不含機票與住宿；餐費以每日 ¥6,000 計
+  rows:
+    - { item: 機場來回 N'EX, jpy: 5200 }
+    - { item: 都內交通 Day 2・4・5, jpy: 2334 }
+    - { item: 鎌倉江の島周遊券, jpy: 1640 }
+    - { item: 門票（御苑・博物館・大仏・長谷寺・江の島套票・划船）, jpy: 4100 }
+    - { item: 餐飲 5 日, jpy: 30000 }
+  total: 43274
+
 emergency:
   - { label: 日本警察, value: "110" }
   - { label: 救護・消防, value: "119" }
   - { label: 台北駐日經濟文化代表處, value: "+81-3-3280-7811" }
+  - { label: 外交部旅外急難救助, value: "+886-800-085-095" }

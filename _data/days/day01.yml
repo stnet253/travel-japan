@@ -1,37 +1,113 @@
-# 第 1 天時間軸節點。欄位說明見 CLAUDE.md「內容要求」；img / url / hours / tips / until / subtitle 皆為選填
-- time: "08:00"
-  until: "08:40"
-  title: "東京駅"
-  subtitle: "Tokyo Station · 丸の内南口"
-  what: "在丸之內南口集合，先到 JR 售票機買 Suica 並儲值 ¥3,000，然後到站內 GRANSTA 吃早餐。"
-  tips: "丸之內側的紅磚站體是 1914 年的建築，早上八點前人最少，順光好拍。"
-  transport: "自飯店步行 8 分（650 m）"
-  cost: 1200
-  buffer: "預留 20 分找月台"
-  plan_b: "下雨改走地下通道，從 B1 直接進站。"
-  lat: 35.6812
-  lng: 139.7671
-  img: ""
-  url: "https://www.tokyostationcity.com/"
-- time: "08:40"
-  until: "09:06"
-  title: "JR 山手線 → 原宿駅"
-  what: "4 號月台搭外回り（往新宿・池袋方向），26 分到原宿。"
-  transport: "JR 山手線 外回り · IC ¥210 · 末班 00:35"
-  cost: 210
-  lat: 35.6702
-  lng: 139.7027
-- time: "09:10"
-  until: "10:40"
-  title: "明治神宮"
-  subtitle: "Meiji Jingu"
-  what: "從原宿駅表参道口出站，右手邊就是第一鳥居。沿參道走到本殿參拜，回程繞到御苑看清正井。"
-  tips: "參道上的酒樽牆是法國葡萄酒與日本清酒各一面，很多人只拍了一面。"
-  transport: "原宿駅 表参道口 出站步行 5 分"
+# Day 1 ・ 2027-03-27（六）成田 → 新宿。交通時刻以 2026-10 同星期查詢為基準，出發前以當日時刻表確認
+- time: "09:30"
+  until: "10:30"
+  title: "成田空港 第2ターミナル"
+  subtitle: "Narita Airport T2 · 入境與領行李"
+  what: "入境審查約 30–40 分，領完行李到 B1 鐵道層。先在 JR EAST Travel Service Center 領取線上買好的 N'EX 來回券，順便把 Suica 加進手機。"
+  tips: "N'EX 來回券限外國護照，一次買好回程就不用再排隊；回程必須搭成田方向出發的那張。"
+  transport: "依班機實際抵達時間調整，以下行程以 09:30 落地推算"
+  cost: 2600
+  buffer: "入境排隊高峰可到 60 分，寬裕抓到 10:30"
+  lat: 35.7720
+  lng: 140.3929
+  img: /assets/img/narita.jpg
+  img_caption: 成田空港 第2ターミナル
+  url: "https://www.jreast.co.jp/multi/nex/tickets/"
+- time: "10:45"
+  until: "12:10"
+  title: "成田エクスプレス → 新宿"
+  subtitle: "N'EX 直達，約 80–85 分"
+  what: "空港第2ビル駅上車，直達新宿不用換車，有行李架與座位上方置物。班次約每 30 分一班。"
+  transport: "JR 成田エクスプレス · 來回券含 · 單程原價 ¥3,330"
   cost: 0
-  hours: "日出開門、日落關門（1 月約 06:40–16:20）"
-  plan_b: "雨天改去竹下通的室內店鋪，或直接到表參道 Hills。"
-  lat: 35.6764
-  lng: 139.6993
-  img: ""
-  url: "https://www.meijijingu.or.jp/"
+  lat: 35.6896
+  lng: 139.7006
+  img: /assets/img/skyliner.jpg
+  img_caption: 圖為京成スカイライナー，走日暮里轉山手線是另一條 1 小時 24 分的選擇（IC ¥2,820）
+- time: "12:20"
+  until: "12:50"
+  title: "飯店寄放行李"
+  subtitle: "新宿西口"
+  what: "多數飯店 15:00 才能入住，先寄行李。順手確認飯店到新宿駅西口的路，晚上回來才不會迷路。"
+  transport: "新宿駅 西口 步行約 10 分"
+  cost: 0
+  lat: 35.6917
+  lng: 139.6975
+- time: "13:00"
+  until: "14:00"
+  title: "午餐：新宿西口 拉麵"
+  what: "新宿是東京拉麵激戰區，西口與南口步行 5 分內就有十幾家。選一家排隊不到 15 分的，先把肚子填飽。"
+  tips: "食べログ新宿拉麵排行每月更新，出發前看一眼前 5 名，挑一家順路的。"
+  cost: 1200
+  lat: 35.6908
+  lng: 139.6990
+  url: "https://tabelog.com/ramen/tokyo/A1304/A130401/rank/"
+- time: "14:00"
+  until: "15:30"
+  title: "新宿東口散步・電器採買"
+  subtitle: "Shinjuku East · ビックカメラ、紀伊國屋"
+  what: "穿過西口地下道到東口，逛ビックカメラ新宿東口店與紀伊國屋書店本店。想買的電器先看好型號，最後一天再決定。"
+  transport: "新宿駅 東西自由通路 步行 5 分"
+  cost: 0
+  lat: 35.6917
+  lng: 139.7036
+  img: /assets/img/shinjuku_sta.jpg
+  img_caption: 新宿駅 東口
+- time: "15:50"
+  until: "17:30"
+  title: "新宿御苑"
+  subtitle: "Shinjuku Gyoen · 新宿門"
+  what: "從新宿三丁目走到新宿門約 8 分。苑內約 1,000 株櫻花，染井吉野在 3 月底進入滿開；從新宿門往右走到英式庭園草坪，背景是 NTT 大樓與櫻花。"
+  tips: "16:00 之後入園不需要事前預約（2026 年規則），而且下午斜光拍櫻花最好看。苑內禁酒，野餐可以。"
+  transport: "新宿駅 東南口 步行 10 分，或 丸ノ内線 新宿御苑前駅 1 分"
+  cost: 500
+  hours: "9:00–18:00，最終入園 17:30。櫻花期週一照常開園"
+  buffer: "17:30 停止入園，16:00 前務必到門口"
+  plan_b: "下雨就縮短到 1 小時，改到 NEWoMan 新宿或 ルミネ 躲雨。"
+  lat: 35.6852
+  lng: 139.7100
+  img: /assets/img/shinjuku_gyoen.jpg
+  img_caption: 新宿御苑 春日
+  url: "https://policies.env.go.jp/national-garden/shinjukugyoen/"
+- time: "18:00"
+  until: "18:30"
+  title: "步行回西口"
+  what: "沿甲州街道往西走，穿過新宿南口與西口。這段 1.8 公里剛好看著天色變暗。"
+  transport: "步行 22 分（1.8 km）"
+  cost: 0
+  lat: 35.6896
+  lng: 139.7006
+- time: "18:30"
+  until: "19:30"
+  title: "東京都庁 南展望室"
+  subtitle: "Tokyo Metropolitan Government Building · 45F"
+  what: "免費的 202 公尺夜景。日落 18:00 前後，18:30 到剛好是藍調時刻，天氣好可以看到富士山的剪影。"
+  tips: "南展望室開到 22:00，北展望室 17:30 關，不要走錯棟。排隊約 20–30 分，電梯口有安檢。"
+  transport: "新宿駅 西口 地下通道 步行 10 分"
+  cost: 0
+  hours: "9:30–22:00，入室截止 21:30。每月第 1・3 週二休，3/30 不受影響"
+  lat: 35.6896
+  lng: 139.6921
+  img: /assets/img/tocho.jpg
+  img_caption: 都庁展望室眺望新宿
+  url: "https://www.yokoso.metro.tokyo.lg.jp/tenbou/"
+- time: "19:45"
+  until: "21:15"
+  title: "晚餐：思い出横丁 烤雞串"
+  subtitle: "Omoide Yokocho · 新宿西口"
+  what: "兩條窄巷六十幾家小店，一家坐 8 到 12 人。看到有空位就坐，點生啤與五串烤雞，吃完換下一家。"
+  tips: "多數店有「お通し」小菜費 ¥300–500，這不是算錯帳。不要在店門口拍太久，老闆會皺眉。"
+  transport: "都庁 步行 8 分，新宿駅 西口 步行 2 分"
+  cost: 3000
+  plan_b: "人太多就改去西口的 新宿西口 やきとり 橫丁後方的小巷，或直接進 ルミネエスト 樓上食堂街。"
+  lat: 35.6933
+  lng: 139.6995
+  img: /assets/img/omoide.jpg
+  img_caption: 思い出横丁 夜
+  url: "https://shinjuku.10rien.com/"
+- time: "21:30"
+  title: "回飯店"
+  what: "明天 7:50 出門，今天早點睡把時差調過來。"
+  cost: 0
+  lat: 35.6917
+  lng: 139.6975

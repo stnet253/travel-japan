@@ -1,4 +1,4 @@
-title: 東京，慢慢走
+title: 東京，櫻花剛好開
 description: 圖文行程、時間軸與地圖
 lang: zh-Hant
 timezone: Asia/Tokyo
@@ -37,3 +37,6 @@ exclude:
   - budget
   - checklist
   - reference
+
+# 行程日期在未來，必須開啟才會輸出 _days
+future: true

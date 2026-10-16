@@ -18,7 +18,15 @@
   <footer class="site-footer">
     <div class="wrap">
       <p class="kicker">{{ site.data.trip.subtitle }}</p>
-      <p>{{ site.title }} ・ 地圖資料 © OpenStreetMap contributors ・ 行程資訊以官方公告為準</p>
+      <p>{{ site.title }} ・ 地圖資料 © OpenStreetMap contributors ・ 營業時間與票價為 2026-10 查詢之官網資訊，出發前請再確認</p>
+      {% if site.data.credits %}
+      <details class="credits">
+        <summary>照片出處（{{ site.data.credits | size }} 張，Wikimedia Commons）</summary>
+        <ul>
+        {% for c in site.data.credits %}<li><a href="{{ c.url }}" target="_blank" rel="noopener">{{ c.title }}</a> — {{ c.author }}，{{ c.license }}{% if c.year > 0 %}，{{ c.year }}{% endif %}</li>{% endfor %}
+        </ul>
+      </details>
+      {% endif %}
     </div>
   </footer>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" crossorigin=""></script>
