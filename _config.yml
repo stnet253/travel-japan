@@ -3,7 +3,7 @@ description: 圖文行程、時間軸與地圖
 lang: zh-Hant
 timezone: Asia/Tokyo
 baseurl: "/travel-japan"
-url: "https://blog.itnotetk.com"
+url: "https://stnet253.github.io"
 
 markdown: kramdown
 theme: null
